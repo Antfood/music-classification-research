@@ -4,10 +4,12 @@ import pandas as pd
 from pydub import AudioSegment
 from typing import List, Dict
 
+MAX_LEN = 10000  # milliseconds
+
 
 def split_audio(
-    filename, outdir, temp, max_length=10000
-) -> List[Dict[str, str]]:  # max_length in milliseconds
+    filename, outdir, temp, max_length
+) -> List[Dict[str, str]]:  
     print("Splitting audio file: ", filename)
 
     splits = []
@@ -57,7 +59,7 @@ if __name__ == "__main__":
 
     for _, row in df.iterrows():
         try:
-            splits = split_audio(row["audio_path"], out_dir, row["temp"])
+            splits = split_audio(row["audio_path"], out_dir, row["temp"], MAX_LEN)
             data.extend(splits)
         except:
             print(":::::::::::::: Error splitting file: ", row["audio_path"], " skipping...")
