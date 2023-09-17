@@ -1,7 +1,18 @@
-## Percussive Generator
+# Percussive Generator
+
+Using miniconda to manage env
+
+- create envirioment from `envirioment.yml`
+
+        conda env create -f environment.yml
+
+- activate
+
+        conda activate perc-gen
+
+Linux only.  Deps will most likely not install on OSX.
 
 Quick breakdown of this repo. 
-
 
 ### `data_from_airtable.py`
 
@@ -20,7 +31,6 @@ by `data_from_airtable.py`.
 
         $ python split_audio data/recordings.csv
 
-
 - By default, chunks are of 10 seconds. This can be adjusted by setting the constant `MAX_LEN`.
 - This script expects a `temp` column in the input CSV. For testing, we are using the temperature as our label. This should be adjusted as we progress in this research.
 - As new csv files `data/split_audio.csv` will be saved with the chunks and their labels (temperature or `temp` for now).
@@ -31,14 +41,15 @@ by `data_from_airtable.py`.
 A custom pytorch dataset class that loads the audio files and labels. You can provide the path to the csv file when instantiating
 
     from audio_dataset import AudioDataset
-    audio_dataset = AudioDataset('path/to/csv/file.csv')
+    audio_dataset = AudioDataset('path/to/csv/file.csv', device='cpu')
 
 You may also provide a transform chain, sample rate as well as the length of the audio samples. 
 
-    audio_dataset = AudioDataset('data/split_audio.csv', transform=transforms, audio_len_seconds=20, sample_rate=16000)
+    audio_dataset = AudioDataset('data/split_audio.csv', transform=transforms, audio_len_seconds=20, sample_rate=16000, device='cuda')
 
 - note that `AudioDataset` will trim or pad any audio file that is not equals to `audio_len_seconds`
 - This class expects a column `temp` as being the label to predict and `audio_path` as the path to the audio files to load.
+- Default device is `cpu` but you can provide `cuda` as argument.
 
 ### `perc_gen.py`
 
