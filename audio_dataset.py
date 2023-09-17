@@ -41,7 +41,7 @@ class AudioDataset(Dataset):
 
         label = self.labels.iloc[index, Y]
 
-        return audio.to(self.device), label.to(self.device)
+        return audio.to(self.device), label
 
     def trim(self, audio: torch.Tensor) -> torch.Tensor:
         if audio.shape[1] > self.nb_samples:

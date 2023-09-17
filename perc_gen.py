@@ -66,6 +66,7 @@ def train(
             y_hat = model(input_values)
 
             y_norm = y / 100.0 # max value is 100
+            y_norm = y_norm.to(model.device())
             loss = criterion(y_hat.squeeze(dim=1), y_norm.to(dtype=torch.float32))
 
             batch_loss.append(loss.item())
