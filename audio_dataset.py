@@ -13,7 +13,7 @@ class AudioDataset(Dataset):
         assert os.path.isfile(csv_path), f"{csv_path} does not exist"
 
         self.labels = pd.read_csv(csv_path)
-        self.sample_rate = SAMPLE_RATE
+        self.sample_rate = sample_rate
         self.transform = transform
         self.nb_samples = audio_len_seconds * self.sample_rate
         self.device = device
@@ -41,7 +41,7 @@ class AudioDataset(Dataset):
 
         label = self.labels.iloc[index, Y]
 
-        return audio.to(self.device), label
+        return audio.to(self.device), label.to(self.device)
 
     def trim(self, audio: torch.Tensor) -> torch.Tensor:
         if audio.shape[1] > self.nb_samples:
