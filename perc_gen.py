@@ -26,6 +26,9 @@ class Wav2Vec2Regression(nn.Module):
         x = x.view(x.size(0), -1)
         x = self.regression_head(x)
         return self.out_activation(x)
+    
+    def device(self):
+        return next(self.parameters()).device
 
 
 def train(
@@ -59,9 +62,11 @@ def train(
                 truncate=True,
             ).input_values
 
-            input_values = input_values.squeeze(dim=0)
+            input_values = input_values.squeeze(dim=0).to(model.device())
             y_hat = model(input_values)
-            loss = criterion(y_hat.squeeze(dim=1), y.to(dtype=torch.float32))
+
+            y_norm = y / 100.0 # max value is 100
+            loss = criterion(y_hat.squeeze(dim=1), y_norm.to(dtype=torch.float32))
 
             batch_loss.append(loss.item())
 
