@@ -1,7 +1,6 @@
 # Music Classification Research
 
-This repo is a combination of various exploratory round round music classifcation. Do far, below are some topics
-that will be explored in this repo.
+This repository serves as a platform for exploring various facets of music classification. It brings together a diverse set of methods and approaches to tackle the problem, providing a rich ground for experimentation and learning.
 
 - Explore supervised Classification using CNN/RNN and others
 - Fined-tunning transformers pre trained for other audio tasks such as Wav2Vec2 and Humbert.
