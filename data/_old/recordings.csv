@@ -1,0 +1,1001 @@
+recording,audio_path,s3-key,temp
+Albuquerque (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/01_Rocket_And_The_Ghost_Albuquerque_11.5.14.wav,01_Rocket_And_The_Ghost_Albuquerque_11.5.14.wav,65
+Spiderhands (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/01_Spiderhands_6.6.13.wav,01_Spiderhands_6.6.13.wav,83
+1981 (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/02_1981_6.6.13.wav,02_1981_6.6.13.wav,82
+Come In From The Outside (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/02_Rocket_And_The_Ghost_Come_In_From_The_Outside_11.5.14.wav,02_Rocket_And_The_Ghost_Come_In_From_The_Outside_11.5.14.wav,85
+Brighton (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/03_Brighton_6.6.13.wav,03_Brighton_6.6.13.wav,87
+Ghosts (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/04_Ghosts_6.6.13.wav,04_Ghosts_6.6.13.wav,82
+Ipanema (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/05_Ipanema_6.6.13.wav,05_Ipanema_6.6.13.wav,34
+The Weather (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/06_The_Weather_6.6.13.wav,06_The_Weather_6.6.13.wav,85
+Copycat (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/07_Copycat_6.6.13.wav,07_Copycat_6.6.13.wav,85
+Love on Division (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/08_Love_On_Division_6.6.13.wav,08_Love_On_Division_6.6.13.wav,85
+Forty Eight Hour Blend (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/8OClockCoffee_FortyEightHourBlend_MUS_180831_LIB_SC.wav,8OClockCoffee_FortyEightHourBlend_MUS_180831_LIB_SC.wav,76
+Rebirth Of Class (Clean),/home/pedro/dev/antfood/percussive-gen/data/audio/8OClockCoffee_RebirthOfClass_Clean_180831_WB_LIB_1.wav,8OClockCoffee_RebirthOfClass_Clean_180831_WB_LIB_1.wav,85
+Rebirth Of Class (Dusty),/home/pedro/dev/antfood/percussive-gen/data/audio/8OClockCoffee_RebirthOfClass_Dusty_180831_WB_LIB_2.wav,8OClockCoffee_RebirthOfClass_Dusty_180831_WB_LIB_2.wav,85
+Sunflower Fields (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/8OClockCoffee_ThePowerOfCoffee_Sunflowerfields_30s_181026_LIB_DH.wav,8OClockCoffee_ThePowerOfCoffee_Sunflowerfields_30s_181026_LIB_DH.wav,100
+The Dons (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/09_The_Dons_6.6.13.wav,09_The_Dons_6.6.13.wav,55
+Heels (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/100_Antfood_Heels.wav,100_Antfood_Heels.wav,64
+House On A Hill (A),/home/pedro/dev/antfood/percussive-gen/data/audio/101_Antfood_HouseOnAHill_A.wav,101_Antfood_HouseOnAHill_A.wav,15
+House On A Hill (B),/home/pedro/dev/antfood/percussive-gen/data/audio/101_Antfood_HouseOnAHill_B.wav,101_Antfood_HouseOnAHill_B.wav,15
+Pig Farmer (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/102_Antfood_PigFarmer.wav,102_Antfood_PigFarmer.wav,21
+Dimly (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/103_Antfood_Dimly.wav,103_Antfood_Dimly.wav,35
+Fall Day (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/104_Antfood_FallDay.wav,104_Antfood_FallDay.wav,90
+Filthy Rich (A),/home/pedro/dev/antfood/percussive-gen/data/audio/105_Antfood_FilthyRich_A.wav,105_Antfood_FilthyRich_A.wav,40
+Filthy Rich (B),/home/pedro/dev/antfood/percussive-gen/data/audio/105_Antfood_FilthyRich_B.wav,105_Antfood_FilthyRich_B.wav,40
+Night Desert (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/106_Antfood_NightDesert.wav,106_Antfood_NightDesert.wav,48
+Empty Sun (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/107_Antfood_EmptySun.wav,107_Antfood_EmptySun.wav,76
+Swiss Cheese Baby (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/108_Antfood_SwissCheeseBaby.wav,108_Antfood_SwissCheeseBaby.wav,72
+Mary Carlos (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/110_Antfood_MaryCarlos.wav,110_Antfood_MaryCarlos.wav,85
+Betelgeuse (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/111_Antfood_Betelgeuse.wav,111_Antfood_Betelgeuse.wav,76
+Habana (A),/home/pedro/dev/antfood/percussive-gen/data/audio/112_Antfood_Habana_A.wav,112_Antfood_Habana_A.wav,76
+Habana (B),/home/pedro/dev/antfood/percussive-gen/data/audio/112_Antfood_Habana_B.wav,112_Antfood_Habana_B.wav,76
+Marble Halls (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/113_Antfood_MarbleHalls.wav,113_Antfood_MarbleHalls.wav,71
+Ponte Preta (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/114_Antfood_PontePreta.wav,114_Antfood_PontePreta.wav,35
+Romper Room (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/115_Antfood_RomperRoom.wav,115_Antfood_RomperRoom.wav,15
+Honey (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/116_Antfood_Honey.wav,116_Antfood_Honey.wav,85
+Lake Superior (Instrumental),/home/pedro/dev/antfood/percussive-gen/data/audio/117_Antfood_LakeSuperior_A.wav,117_Antfood_LakeSuperior_A.wav,87
+Lake Superior (Vocoded Vocals),/home/pedro/dev/antfood/percussive-gen/data/audio/117_Antfood_LakeSuperior_B.wav,117_Antfood_LakeSuperior_B.wav,82
+Moog  Aria (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/118_Antfood_MoogAria.wav,118_Antfood_MoogAria.wav,68
+Roboland (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/119_Antfood_Roboland.wav,119_Antfood_Roboland.wav,57
+Clair De Lune (Cover),/home/pedro/dev/antfood/percussive-gen/data/audio/120_Antfood_Squared.wav,120_Antfood_Squared.wav,85
+Spiders (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/121_Antfood_Spiders.wav,121_Antfood_Spiders.wav,73
+Easy (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/122_Antfood_Easy.wav,122_Antfood_Easy.wav,86
+Dirty Party (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/123_Antfood_DirtyParty.wav,123_Antfood_DirtyParty.wav,59
+Werewolves (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/124_Antfood_Werewolves.wav,124_Antfood_Werewolves.wav,62
+Community (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/125_Antfood_Community.wav,125_Antfood_Community.wav,65
+Salty Chicken (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/126_Antfood_SaltyChicken.wav,126_Antfood_SaltyChicken.wav,85
+Milk Crate (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/127_Antfood_MilkCrate.wav,127_Antfood_MilkCrate.wav,46
+City Streets (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/128_Antfood_CityStreets.wav,128_Antfood_CityStreets.wav,80
+Down The Hall (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/129_Antfood_DownTheHall.wav,129_Antfood_DownTheHall.wav,85
+Doctor Pants (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/130_Antfood_DoctorPants.wav,130_Antfood_DoctorPants.wav,68
+Boots (Instrumental),/home/pedro/dev/antfood/percussive-gen/data/audio/131_Antfood_Boots_A.wav,131_Antfood_Boots_A.wav,61
+Boots (Female Vocals),/home/pedro/dev/antfood/percussive-gen/data/audio/131_Antfood_Boots_B.wav,131_Antfood_Boots_B.wav,61
+You Know I Want You (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/132_Antfood_YouKnowIWantYou.wav,132_Antfood_YouKnowIWantYou.wav,35
+Chinelas (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/133_Antfood_Chinelas.wav,133_Antfood_Chinelas.wav,61
+Crumbs (Long),/home/pedro/dev/antfood/percussive-gen/data/audio/135_Antfood_Crumbs.wav,135_Antfood_Crumbs.wav,90
+Party People (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/137_Antfood_PartyPeople.wav,137_Antfood_PartyPeople.wav,66
+Grapefruit (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/138_Antfood_Grapefruit.wav,138_Antfood_Grapefruit.wav,82
+Slippers (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/140_Antfood_Slippers.wav,140_Antfood_Slippers.wav,86
+Old Friends (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/141_Antfood_OldFriends_LIBEDIT_FIXEND_RW_190626.wav,141_Antfood_OldFriends_LIBEDIT_FIXEND_RW_190626.wav,85
+Sunday Paper (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/142_Antfood_SundayPaper.wav,142_Antfood_SundayPaper.wav,74
+Route 39 (A),/home/pedro/dev/antfood/percussive-gen/data/audio/143_Antfood_Route39_A.wav,143_Antfood_Route39_A.wav,64
+Route 39 (B),/home/pedro/dev/antfood/percussive-gen/data/audio/143_Antfood_Route39_B.wav,143_Antfood_Route39_B.wav,64
+Ghost Town (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/145_Antfood_GhostTown.wav,145_Antfood_GhostTown.wav,44
+Perpetual Motion (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/146_Antfood_PerpetualMotion.wav,146_Antfood_PerpetualMotion.wav,35
+Tick Tock (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/147_Antfood_TickTock.wav,147_Antfood_TickTock.wav,97
+Professor Bill (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/148_Antfood_ProfessorBill.wav,148_Antfood_ProfessorBill.wav,72
+Ogres (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/149_Antfood_Ogres.wav,149_Antfood_Ogres.wav,47
+Lucid Fable (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/150_Amway_FairyTale_012210_LIBEDIT_FIXEND_RW_190626.wav,150_Amway_FairyTale_012210_LIBEDIT_FIXEND_RW_190626.wav,78
+That's Hot (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/151_Antfood_ThatsHot.wav,151_Antfood_ThatsHot.wav,52
+Espanhola (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/155_Antfood_Espanhola.wav,155_Antfood_Espanhola.wav,77
+Fidelidade (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/156_Antfood_Fidelidade.wav,156_Antfood_Fidelidade.wav,75
+Forrozão (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/157_Antfood_Forrozao.wav,157_Antfood_Forrozao.wav,57
+Rikki (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/161_Antfood_Rikki.wav,161_Antfood_Rikki.wav,75
+Sacudin (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/162_Antfood_Sacudin.wav,162_Antfood_Sacudin.wav,70
+Elusive Beats (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/163_Antfood_ElusiveBeats.wav,163_Antfood_ElusiveBeats.wav,66
+Family Time (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/164_Antfood_FamilyTime.wav,164_Antfood_FamilyTime.wav,66
+Just Because (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/165_Antfood_JustBecause.wav,165_Antfood_JustBecause.wav,70
+Happy Claps (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/167_Antfood_HappyClaps.wav,167_Antfood_HappyClaps.wav,78
+Re Xmas (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/168_Antfood_ReXmas.wav,168_Antfood_ReXmas.wav,59
+Sweaters (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/170_Antfood_Sweaters.wav,170_Antfood_Sweaters.wav,76
+Little Rock (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/171_Antfood_LittleRock.wav,171_Antfood_LittleRock.wav,78
+Orange And Blue (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/172_Antfood_OrangeAndBlue.wav,172_Antfood_OrangeAndBlue.wav,75
+Cheer (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/173_Antfood_Cheer.wav,173_Antfood_Cheer.wav,76
+Fling (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/174_Antfood_Fling.wav,174_Antfood_Fling.wav,15
+Shadow (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/UnknownClient_UnknownProject_Shadow_Original_221011_D_120_4-4_WB_NXT.wav,UnknownClient_UnknownProject_Shadow_Original_221011_D_120_4-4_WB_NXT.wav,34
+Times (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/176_Antfood_Times.wav,176_Antfood_Times.wav,86
+Perry (30s),/home/pedro/dev/antfood/percussive-gen/data/audio/178_Antfood_Perry.wav,178_Antfood_Perry.wav,85
+Surf Kid (30s),/home/pedro/dev/antfood/percussive-gen/data/audio/179_Antfood_SurfKid.wav,179_Antfood_SurfKid.wav,76
+Dirty Toes (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/FIVE_DIRTYTOES_080916_FIXEND_RW_190711.wav,FIVE_DIRTYTOES_080916_FIXEND_RW_190711.wav,38
+Strange Night (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/190_Antfood_StrangeNight.wav,190_Antfood_StrangeNight.wav,76
+Sparingly (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/191_Antfood_Sparingly.wav,191_Antfood_Sparingly.wav,60
+Pencils (Mellotron),/home/pedro/dev/antfood/percussive-gen/data/audio/193_Antfood_Pencils_B.wav,193_Antfood_Pencils_B.wav,85
+Pencils (Lo-Fi Pop Punk),/home/pedro/dev/antfood/percussive-gen/data/audio/193_Antfood_Pencils.wav,193_Antfood_Pencils.wav,85
+Rye (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/195_Antfood_Rye.wav,195_Antfood_Rye.wav,85
+Salesman (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/196_Antfood_Salesman.wav,196_Antfood_Salesman.wav,87
+Steam (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/197_Antfood_Steam.wav,197_Antfood_Steam.wav,85
+Susquehana (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/198_Antfood_Susquehana_LIBEDIT_FIXEND_RW_190626.wav,198_Antfood_Susquehana_LIBEDIT_FIXEND_RW_190626.wav,84
+Optimist Prime (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/200_Antfood_OptimistPrime.wav,200_Antfood_OptimistPrime.wav,66
+Tomboy (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/206_Antfood_TomBoy.wav,206_Antfood_TomBoy.wav,91
+Ornaments (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/208_Antfood_Ornaments.wav,208_Antfood_Ornaments.wav,63
+Abeja (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/209_Antfood_Abeja.wav,209_Antfood_Abeja.wav,68
+Frantic (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/211_Antfood_Frantic.wav,211_Antfood_Frantic.wav,31
+The Good Life (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/212_Antfood_TheGoodLife.wav,212_Antfood_TheGoodLife.wav,85
+Zabumba (Full Version),/home/pedro/dev/antfood/percussive-gen/data/audio/213_Antfood_Zabumba_A.wav,213_Antfood_Zabumba_A.wav,68
+Zabumba (Cut Down),/home/pedro/dev/antfood/percussive-gen/data/audio/213_Antfood_Zabumba_B.wav,213_Antfood_Zabumba_B.wav,68
+Charango (Stomp),/home/pedro/dev/antfood/percussive-gen/data/audio/215_Antfood_Charango_A.wav,215_Antfood_Charango_A.wav,88
+Charango (Sparser Mix),/home/pedro/dev/antfood/percussive-gen/data/audio/215_Antfood_Charango_B.wav,215_Antfood_Charango_B.wav,88
+Stringer Bell (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/216_Antfood_StringerBell.wav,216_Antfood_StringerBell.wav,70
+Dance Dance Evolution (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/217_Antfood_DanceDanceEvolution.wav,217_Antfood_DanceDanceEvolution.wav,76
+Dream (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/219_Antfood_Dream.wav,219_Antfood_Dream.wav,62
+Bright Hallway (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/BrightHallway_LibEdit.wav,BrightHallway_LibEdit.wav,69
+Destruction (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/221_Antfood_Destruction.wav,221_Antfood_Destruction.wav,88
+Magic (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/222_Antfood_Magic.wav,222_Antfood_Magic.wav,82
+Float (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/223_Antfood_Float.wav,223_Antfood_Float.wav,26
+Week (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/224_Antfood_Week.wav,224_Antfood_Week.wav,57
+Joystick (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/225_Antfood_Joystick.wav,225_Antfood_Joystick.wav,15
+Bouncing Things (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/226_Antfood_BouncingThings.wav,226_Antfood_BouncingThings.wav,84
+Bump (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/228_Antfood_Bump.wav,228_Antfood_Bump.wav,65
+Martini (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/229_Antfood_Martini.wav,229_Antfood_Martini.wav,37
+South By Southeast (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/230_Antfood_SouthBySoutheast.wav,230_Antfood_SouthBySoutheast.wav,28
+Rezzident (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/231_Antfood_Rezzident.wav,231_Antfood_Rezzident.wav,39
+Bay Area Chase (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/232_Antfood_BayAreaChase.wav,232_Antfood_BayAreaChase.wav,19
+No Fool (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/234_Antfood_NoFool.wav,234_Antfood_NoFool.wav,85
+Figs (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/236_Antfood_Figs.wav,236_Antfood_Figs.wav,79
+Sophistaphone (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/237_Antfood_Sophistaphone.wav,237_Antfood_Sophistaphone.wav,63
+Whistle (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/238_Antfood_Whistle.wav,238_Antfood_Whistle.wav,85
+Mandolinha (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/239_Antfood_Mandolinha.wav,239_Antfood_Mandolinha.wav,88
+Highlighter (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/240_Antfood_Highlighter.wav,240_Antfood_Highlighter.wav,80
+Baseball (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/242_Antfood_Baseball.wav,242_Antfood_Baseball.wav,69
+Stealing Home (A),/home/pedro/dev/antfood/percussive-gen/data/audio/243_Antfood_StealingHome_A.wav,243_Antfood_StealingHome_A.wav,86
+Stealing Home (B),/home/pedro/dev/antfood/percussive-gen/data/audio/243_Antfood_StealingHome_B.wav,243_Antfood_StealingHome_B.wav,86
+Pony (OG),/home/pedro/dev/antfood/percussive-gen/data/audio/245_Antfood_Pony_A.wav,245_Antfood_Pony_A.wav,55
+Pony (Alterrnate Mix),/home/pedro/dev/antfood/percussive-gen/data/audio/245_Antfood_Pony_B.wav,245_Antfood_Pony_B.wav,74
+Up And At Em (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/246_Antfood_UpAndAtEm.wav,246_Antfood_UpAndAtEm.wav,79
+Walking Around (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/247_Antfood_WalkingAround.wav,247_Antfood_WalkingAround.wav,70
+Sky Clouds (A),/home/pedro/dev/antfood/percussive-gen/data/audio/248_Antfood_SkyClouds_A.wav,248_Antfood_SkyClouds_A.wav,74
+Sky Clouds (B),/home/pedro/dev/antfood/percussive-gen/data/audio/248_Antfood_SkyClouds_B.wav,248_Antfood_SkyClouds_B.wav,74
+Bixiga (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/249_Antfood_Bixiga.wav,249_Antfood_Bixiga.wav,59
+Dreamsville (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/250_Antfood_Dreamsville.wav,250_Antfood_Dreamsville.wav,86
+Devils (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/251_Antfood_Devils.wav,251_Antfood_Devils.wav,86
+Infomercial (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/252_Antfood_Infomercial.wav,252_Antfood_Infomercial.wav,68
+Banger (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/258_Antfood_Banger.wav,258_Antfood_Banger.wav,52
+Warriors (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/259_Antfood_Warriors.wav,259_Antfood_Warriors.wav,22
+Rebuild (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/260_Antfood_Rebuild.wav,260_Antfood_Rebuild.wav,44
+Stomp (A),/home/pedro/dev/antfood/percussive-gen/data/audio/261_Antfood_Stomp.wav,261_Antfood_Stomp.wav,15
+Franck (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/262_Antfood_Franck.wav,262_Antfood_Franck.wav,81
+Stutter (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/263_Antfood_Stutter.wav,263_Antfood_Stutter.wav,62
+Drop And Go (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/264_Antfood_DropAndGo.wav,264_Antfood_DropAndGo.wav,61
+Red Sauce (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/265_Antfood_RedSauce.wav,265_Antfood_RedSauce.wav,52
+Power Hitter (Extended Mix),/home/pedro/dev/antfood/percussive-gen/data/audio/266_Antfood_PowerHitter_A.wav,266_Antfood_PowerHitter_A.wav,46
+Power Hitter (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/266_Antfood_PowerHitter_B.wav,266_Antfood_PowerHitter_B.wav,46
+Providence (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/267_Antfood_Providence.wav,267_Antfood_Providence.wav,49
+Chuck Knows (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/268_Antfood_ChuckKnows.wav,268_Antfood_ChuckKnows.wav,72
+Brucke (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/269_Antfood_Brucke.wav,269_Antfood_Brucke.wav,77
+Autumn (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/271_Antfood_Autumn.wav,271_Antfood_Autumn.wav,85
+Freuen (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/272_Antfood_Freuen.wav,272_Antfood_Freuen.wav,80
+Kronung (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/273_Antfood_Kronung.wav,273_Antfood_Kronung.wav,44
+The Door (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/276_Antfood_TheDoor.wav,276_Antfood_TheDoor.wav,86
+Prisoner (A),/home/pedro/dev/antfood/percussive-gen/data/audio/277_Antfood_Prisoner_A.wav,277_Antfood_Prisoner_A.wav,79
+Prisoner (B.wav),/home/pedro/dev/antfood/percussive-gen/data/audio/277_Antfood_Prisoner_B.wav,277_Antfood_Prisoner_B.wav,79
+The Valley (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/279_Antfood_TheValley.wav,279_Antfood_TheValley.wav,85
+Dinner Time (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/280_Antfood_DinnerTime.wav,280_Antfood_DinnerTime.wav,47
+Olney (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/281_Antfood_Olney.wav,281_Antfood_Olney.wav,66
+So Cute (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/282_Antfood_SoCute.wav,282_Antfood_SoCute.wav,62
+Leaf (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/284_Antfood_Leaf.wav,284_Antfood_Leaf.wav,68
+Railroad Ties (Extended),/home/pedro/dev/antfood/percussive-gen/data/audio/285_Antfood_RailroadTies_A.wav,285_Antfood_RailroadTies_A.wav,66
+Railroad Ties (Original Theme),/home/pedro/dev/antfood/percussive-gen/data/audio/285_Antfood_RailroadTies_B.wav,285_Antfood_RailroadTies_B.wav,66
+Rainbows (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/286_Antfood_Rainbows.wav,286_Antfood_Rainbows.wav,85
+Sarah (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/287_Antfood_Sarah.wav,287_Antfood_Sarah.wav,85
+Just Right (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/288_Antfood_JustRight.wav,288_Antfood_JustRight.wav,85
+Opposites (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/289_Antfood_Opposites.wav,289_Antfood_Opposites.wav,82
+Holding Hands (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/290_Antfood_HoldingHands.wav,290_Antfood_HoldingHands.wav,85
+Pretending (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/291_Antfood_Pretending.wav,291_Antfood_Pretending.wav,85
+Benches (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/292_Antfood_Benches.wav,292_Antfood_Benches.wav,85
+Bradley (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/293_Antfood_Bradley.wav,293_Antfood_Bradley.wav,52
+Ascendance (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/295_Antfood_Ascendance.wav,295_Antfood_Ascendance.wav,19
+Velocomante (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/298_Antfood_Commander.wav,298_Antfood_Commander.wav,25
+Goreme (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/300_Antfood_Goreme.wav,300_Antfood_Goreme.wav,15
+Irae (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/301_Antfood_Irae.wav,301_Antfood_Irae.wav,15
+Kayseri (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/302_Antfood_Kayseri.wav,302_Antfood_Kayseri.wav,56
+Ochre (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/303_Antfood_Ochre.wav,303_Antfood_Ochre.wav,15
+Scaffold (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/304_Antfood_Scaffold.wav,304_Antfood_Scaffold.wav,65
+Tines (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/305_Antfood_Tines.wav,305_Antfood_Tines.wav,63
+Ulsichar (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/306_Antfood_Ulsichar.wav,306_Antfood_Ulsichar.wav,30
+Glow (A),/home/pedro/dev/antfood/percussive-gen/data/audio/307_Antfood_Glow_A.wav,307_Antfood_Glow_A.wav,57
+Glow (B),/home/pedro/dev/antfood/percussive-gen/data/audio/307_Antfood_Glow_B.wav,307_Antfood_Glow_B.wav,57
+Lopes (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/308_Antfood_Lopes.wav,308_Antfood_Lopes.wav,82
+Sliver (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/309_Antfood_Sliver.wav,309_Antfood_Sliver.wav,78
+Roadtrip (Extended),/home/pedro/dev/antfood/percussive-gen/data/audio/310_Antfood_Roadtrip.wav,310_Antfood_Roadtrip.wav,74
+Frog Toad (A),/home/pedro/dev/antfood/percussive-gen/data/audio/311_Antfood_FrogToad_A.wav,311_Antfood_FrogToad_A.wav,60
+Frog Toad (B),/home/pedro/dev/antfood/percussive-gen/data/audio/311_Antfood_FrogToad_B.wav,311_Antfood_FrogToad_B.wav,60
+Raskin (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/312_Antfood_Raskin.wav,312_Antfood_Raskin.wav,32
+Five Percent (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/313_Antfood_FivePercent.wav,313_Antfood_FivePercent.wav,82
+Horses (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/314_Antfood_Horses.wav,314_Antfood_Horses.wav,38
+Rollerblading (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/315_Antfood_Rollerblading.wav,315_Antfood_Rollerblading.wav,60
+Sirens (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/316_Antfood_Sirens.wav,316_Antfood_Sirens.wav,64
+Claps (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/318_Antfood_Claps.wav,318_Antfood_Claps.wav,74
+Court (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/319_Antfood_Court.wav,319_Antfood_Court.wav,76
+Follow (B.wav),/home/pedro/dev/antfood/percussive-gen/data/audio/323_Antfood_Follow_B.wav,323_Antfood_Follow_B.wav,72
+Just Enough Egg Nog (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/324_Antfood_JustEnoughEggNog.wav,324_Antfood_JustEnoughEggNog.wav,71
+Candy (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/325_Antfood_Candy.wav,325_Antfood_Candy.wav,83
+Sideways Houses (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/326_Antfood_SidewaysHouses.wav,326_Antfood_SidewaysHouses.wav,85
+Open Up (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/327_Antfood_OpenUp.wav,327_Antfood_OpenUp.wav,53
+Golden Rings (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/328_Antfood_GoldenRings.wav,328_Antfood_GoldenRings.wav,47
+Angels (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/329_Antfood_Angels.wav,329_Antfood_Angels.wav,62
+Jammin The Halls (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/330_Antfood_JamminTheHalls.wav,330_Antfood_JamminTheHalls.wav,69
+Oh Snowy Night (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/331_Antfood_OhSnowyNight.wav,331_Antfood_OhSnowyNight.wav,59
+Old School (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/332_Antfood_OldSchool.wav,332_Antfood_OldSchool.wav,85
+Boston (A),/home/pedro/dev/antfood/percussive-gen/data/audio/333_Antfood_Boston_A.wav,333_Antfood_Boston_A.wav,89
+Boston (B),/home/pedro/dev/antfood/percussive-gen/data/audio/333_Antfood_Boston_B.wav,333_Antfood_Boston_B.wav,89
+Xmas Blingtime (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/334_Antfood_XmasBlingtime.wav,334_Antfood_XmasBlingtime.wav,46
+East Of Noir (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/335_Antfood_EastOfNoir.wav,335_Antfood_EastOfNoir.wav,64
+Environment (A),/home/pedro/dev/antfood/percussive-gen/data/audio/336_Antfood_Environment_A.wav,336_Antfood_Environment_A.wav,67
+Environment (B),/home/pedro/dev/antfood/percussive-gen/data/audio/336_Antfood_Environment_B.wav,336_Antfood_Environment_B.wav,67
+Universe (A),/home/pedro/dev/antfood/percussive-gen/data/audio/337_Antfood_Universe_A.wav,337_Antfood_Universe_A.wav,85
+Universe (B),/home/pedro/dev/antfood/percussive-gen/data/audio/337_Antfood_Universe_B.wav,337_Antfood_Universe_B.wav,85
+Space Facts (The Dance),/home/pedro/dev/antfood/percussive-gen/data/audio/338_Antfood_SpaceDance.wav,338_Antfood_SpaceDance.wav,52
+Space Facts (Short and Sweet),/home/pedro/dev/antfood/percussive-gen/data/audio/339_Antfood_SpaceFacts.wav,339_Antfood_SpaceFacts.wav,45
+Jungle Party (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/340_Antfood_JungleParty.wav,340_Antfood_JungleParty.wav,83
+Sewers (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/341_Antfood_Sewers.wav,341_Antfood_Sewers.wav,78
+Leonor (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/342_Antfood_Leonor.wav,342_Antfood_Leonor.wav,74
+Birds (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/347_Antfood_Birds.wav,347_Antfood_Birds.wav,100
+Galo (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/351_Antfood_Galo.wav,351_Antfood_Galo.wav,85
+So Spooky (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/352_Antfood_SoSpooky.wav,352_Antfood_SoSpooky.wav,72
+Melt (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/353_Antfood_Melt.wav,353_Antfood_Melt.wav,15
+Eerie (Lost & Found Mix),/home/pedro/dev/antfood/percussive-gen/data/audio/355_Antfood_Eerie.wav,355_Antfood_Eerie.wav,15
+Pamplona (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/359_Antfood_Pamplona.wav,359_Antfood_Pamplona.wav,64
+Food (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/361_Antfood_Food.wav,361_Antfood_Food.wav,65
+The Chair (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/365_Antfood_TheChair.wav,365_Antfood_TheChair.wav,68
+Rain Cats (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/366_Antfood_RainCats.wav,366_Antfood_RainCats.wav,74
+Forbearers (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/369_Antfood_Forbearers.wav,369_Antfood_Forbearers.wav,78
+Bossa Lounge (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/370_Antfood_BossaLounge.wav,370_Antfood_BossaLounge.wav,85
+Mouse Trap (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/371_Antfood_MouseTrap.wav,371_Antfood_MouseTrap.wav,76
+South Beach (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/372_Antfood_SouthBeach.wav,372_Antfood_SouthBeach.wav,77
+Whiskers (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/373_Antfood_Whiskers.wav,373_Antfood_Whiskers.wav,85
+Water (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/374_Antfood_Water.wav,374_Antfood_Water.wav,41
+Cocktails (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/375_Antfood_Cocktails.wav,375_Antfood_Cocktails.wav,72
+Reservations (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/376_Antfood_Reservations.wav,376_Antfood_Reservations.wav,82
+Sad Godzilla (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/377_Antfood_SadGodzilla.wav,377_Antfood_SadGodzilla.wav,41
+Bing Beat (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/378_Antfood_BingBeat.wav,378_Antfood_BingBeat.wav,58
+Soft Serve (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/380_Antfood_SoftServe.wav,380_Antfood_SoftServe.wav,68
+Young Explorers (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/381_Antfood_YoungExplorers.wav,381_Antfood_YoungExplorers.wav,85
+Jerry Curl (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/382_Antfood_JerryCurl.wav,382_Antfood_JerryCurl.wav,73
+Blueberry Syrup (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/384_Antfood_BlueberrySyrup.wav,384_Antfood_BlueberrySyrup.wav,66
+Banjo Duet (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/385_Antfood_BanjoDuet.wav,385_Antfood_BanjoDuet.wav,70
+Twice As Nice (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/386_Antfood_TwiceAsNice.wav,386_Antfood_TwiceAsNice.wav,85
+Kick (A),/home/pedro/dev/antfood/percussive-gen/data/audio/387_Antfood_Kick_A.wav,387_Antfood_Kick_A.wav,67
+Kick (B),/home/pedro/dev/antfood/percussive-gen/data/audio/387_Antfood_Kick_B.wav,387_Antfood_Kick_B.wav,67
+Distant Star (A),/home/pedro/dev/antfood/percussive-gen/data/audio/388_Antfood_DistantStar_A.wav,388_Antfood_DistantStar_A.wav,86
+Distant Star (B),/home/pedro/dev/antfood/percussive-gen/data/audio/388_Antfood_DistantStar_B.wav,388_Antfood_DistantStar_B.wav,86
+Three Guys (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/389_Antfood_ThreeGuys.wav,389_Antfood_ThreeGuys.wav,84
+Get Em (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/391_Antfood_GetEm.wav,391_Antfood_GetEm.wav,68
+Break And Forth (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/392_Antfood_BreakAndForth.wav,392_Antfood_BreakAndForth.wav,70
+USA Today (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/393_Antfood_USAToday.wav,393_Antfood_USAToday.wav,56
+Doo Doo Doo (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/394_Antfood_DooDooDoo.wav,394_Antfood_DooDooDoo.wav,66
+High Stakes (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/395_Antfood_HighStakes.wav,395_Antfood_HighStakes.wav,62
+Make It So Easy (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/397_Antfood_MakeItSoEasy.wav,397_Antfood_MakeItSoEasy.wav,40
+Increasing (A),/home/pedro/dev/antfood/percussive-gen/data/audio/398_Antfood_Increasing_A.wav,398_Antfood_Increasing_A.wav,63
+Increasing (B),/home/pedro/dev/antfood/percussive-gen/data/audio/398_Antfood_Increasing_B.wav,398_Antfood_Increasing_B.wav,63
+Pandeirao (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/399_Antfood_Pandeirao.wav,399_Antfood_Pandeirao.wav,41
+Persistence (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/400_Antfood_Persistence.wav,400_Antfood_Persistence.wav,53
+Ballgame (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/402_Antfood_Ballgame.wav,402_Antfood_Ballgame.wav,76
+Clear (A),/home/pedro/dev/antfood/percussive-gen/data/audio/403_Antfood_ClearA.wav,403_Antfood_ClearA.wav,83
+Clear (B),/home/pedro/dev/antfood/percussive-gen/data/audio/403_Antfood_ClearB.wav,403_Antfood_ClearB.wav,83
+Cleaver (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/404_Antfood_Cleaver.wav,404_Antfood_Cleaver.wav,60
+Club (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/405_Antfood_Club.wav,405_Antfood_Club.wav,54
+Cosmic (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/406_Antfood_Cosmic.wav,406_Antfood_Cosmic.wav,61
+Crack Run (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/407_Antfood_CrackRun.wav,407_Antfood_CrackRun.wav,22
+Crazy Fun (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/408_Antfood_CrazyFun.wav,408_Antfood_CrazyFun.wav,41
+Discovering (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/409_Antfood_Discovering.wav,409_Antfood_Discovering.wav,31
+Drama (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/410_Antfood_Drama.wav,410_Antfood_Drama.wav,41
+Driving (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/411_Antfood_Driving.wav,411_Antfood_Driving.wav,85
+Eight Oclock (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/412_Antfood_EightOclock.wav,412_Antfood_EightOclock.wav,15
+Electro (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/413_Antfood_Electro.wav,413_Antfood_Electro.wav,76
+Fifth Star from the Fire (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/414_Antfood_F5.wav,414_Antfood_F5.wav,65
+Feeling Fine (A),/home/pedro/dev/antfood/percussive-gen/data/audio/415_Antfood_FeelingFineA.wav,415_Antfood_FeelingFineA.wav,85
+Feeling Fine (B),/home/pedro/dev/antfood/percussive-gen/data/audio/415_Antfood_FeelingFineB.wav,415_Antfood_FeelingFineB.wav,85
+Fierro (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/416_Antfood_Fierro.wav,416_Antfood_Fierro.wav,65
+Fishing (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/417_Antfood_Fishing.wav,417_Antfood_Fishing.wav,85
+Freezing (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/418_Antfood_Freezing.wav,418_Antfood_Freezing.wav,20
+Freiburg (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/419_Antfood_Freiburg.wav,419_Antfood_Freiburg.wav,81
+Glint (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/421_Antfood_Glint.wav,421_Antfood_Glint.wav,68
+Gracelandny (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/422_Antfood_Graceland.wav,422_Antfood_Graceland.wav,72
+Jams (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/424_Antfood_Jams.wav,424_Antfood_Jams.wav,56
+Jets (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/425_Antfood_Jets.wav,425_Antfood_Jets.wav,25
+Kingdom of Eternal Septembers (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/426_Antfood_Kingdom.wav,426_Antfood_Kingdom.wav,71
+Momentary (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/430_Antfood_Momentary.wav,430_Antfood_Momentary.wav,75
+Morning Now (Instrumental),/home/pedro/dev/antfood/percussive-gen/data/audio/431_Antfood_MorningNowA.wav,431_Antfood_MorningNowA.wav,85
+Morning Now (Vocal),/home/pedro/dev/antfood/percussive-gen/data/audio/431_Antfood_MorningNowB.wav,431_Antfood_MorningNowB.wav,85
+Nova (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/433_Antfood_Nova.wav,433_Antfood_Nova.wav,85
+One Two (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/434_Antfood_OneTwo.wav,434_Antfood_OneTwo.wav,80
+Pega Mina (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/435_Antfood_PegaMina.wav,435_Antfood_PegaMina.wav,85
+Pieces (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/436_Antfood_Pieces.wav,436_Antfood_Pieces.wav,97
+Polka One (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/437_Antfood_PolkaOne.wav,437_Antfood_PolkaOne.wav,59
+Polka Two (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/438_Antfood_PolkaThree.wav,438_Antfood_PolkaThree.wav,82
+Polka Three (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/439_Antfood_PolkaTwo.wav,439_Antfood_PolkaTwo.wav,45
+Pond (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/440_Antfood_Pond.wav,440_Antfood_Pond.wav,87
+Renee (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/442_Antfood_Renee.wav,442_Antfood_Renee.wav,42
+Roads (A),/home/pedro/dev/antfood/percussive-gen/data/audio/443_Antfood_RoadsA.wav,443_Antfood_RoadsA.wav,87
+Roads (B),/home/pedro/dev/antfood/percussive-gen/data/audio/443_Antfood_RoadsB.wav,443_Antfood_RoadsB.wav,87
+Saturdays (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/444_Antfood_Saturdays.wav,444_Antfood_Saturdays.wav,77
+Say Good Morning (A),/home/pedro/dev/antfood/percussive-gen/data/audio/445_Antfood_SayGoodMorningA.wav,445_Antfood_SayGoodMorningA.wav,85
+Say Good Morning (B),/home/pedro/dev/antfood/percussive-gen/data/audio/445_Antfood_SayGoodMorningB.wav,445_Antfood_SayGoodMorningB.wav,74
+Scary (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/446_Antfood_Scary.wav,446_Antfood_Scary.wav,70
+Screet (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/447_Antfood_Screet.wav,447_Antfood_Screet.wav,58
+Settle Outside (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/448_Antfood_SettleOutside.wav,448_Antfood_SettleOutside.wav,85
+Sideways (A),/home/pedro/dev/antfood/percussive-gen/data/audio/449_Antfood_SidewaysA.wav,449_Antfood_SidewaysA.wav,65
+Sideways (B),/home/pedro/dev/antfood/percussive-gen/data/audio/449_Antfood_SidewaysB.wav,449_Antfood_SidewaysB.wav,81
+Squeak (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/452_Antfood_Squeak.wav,452_Antfood_Squeak.wav,15
+Stoops (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/453_Antfood_Stoops.wav,453_Antfood_Stoops.wav,84
+Summerful (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/454_Antfood_Summerful.wav,454_Antfood_Summerful.wav,85
+Summers (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/455_Antfood_Summers.wav,455_Antfood_Summers.wav,85
+Timeline (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/456_Antfood_Timeline.wav,456_Antfood_Timeline.wav,85
+Tuileries (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/457_Antfood_Tuileries.wav,457_Antfood_Tuileries.wav,81
+Walking (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/458_Antfood_Walking.wav,458_Antfood_Walking.wav,43
+Boardwalk (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/459_Antfood_Boardwalk.wav,459_Antfood_Boardwalk.wav,85
+Center Of It All (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/460_Antfood_CenterOfItAll.wav,460_Antfood_CenterOfItAll.wav,16
+Change (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/461_Antfood_Change.wav,461_Antfood_Change.wav,58
+Cool Breeze (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/462_Antfood_CoolBreeze.wav,462_Antfood_CoolBreeze.wav,68
+Fun House (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/463_Antfood_FunHouse.wav,463_Antfood_FunHouse.wav,76
+Your Beats (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/464_Antfood_YourBeats.wav,464_Antfood_YourBeats.wav,7
+Foxy Dance (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/465_Antfood_FoxyDance.wav,465_Antfood_FoxyDance.wav,73
+Cast (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/466_Antfood_Cast.wav,466_Antfood_Cast.wav,36
+See Saw (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/467_Antfood_SeeSaw.wav,467_Antfood_SeeSaw.wav,69
+Checkers (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/468_Antfood_Checkers.wav,468_Antfood_Checkers.wav,63
+Rinse (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/469_Antfood_Rinse.wav,469_Antfood_Rinse.wav,86
+Broccoli (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/470_Antfood_Broccoli.wav,470_Antfood_Broccoli.wav,82
+Pears (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/471_Antfood_Pears.wav,471_Antfood_Pears.wav,85
+Santa Fe (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/472_Antfood_SantaFe.wav,472_Antfood_SantaFe.wav,78
+String (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/473_Antfood_String.wav,473_Antfood_String.wav,67
+Theramincito (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/474_Antfood_Theramincito.wav,474_Antfood_Theramincito.wav,40
+Believe (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/475_Antfood_Believe.wav,475_Antfood_Believe.wav,63
+Places (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/476_Antfood_Places.wav,476_Antfood_Places.wav,17
+Crush (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/477_Antfood_Crush.wav,477_Antfood_Crush.wav,30
+5 Inch Floppy (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/Chobani_Chobani_5InchFloppy_Original_072811_C_95_4-4_PH_NXT.wav,Chobani_Chobani_5InchFloppy_Original_072811_C_95_4-4_PH_NXT.wav,72
+Somewhere (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/AFL-CIO_AFL-CIO_Somewhere_Original_111011_C_110_4-4_WB_NXT.wav,AFL-CIO_AFL-CIO_Somewhere_Original_111011_C_110_4-4_WB_NXT.wav,85
+Fast Break (D S),/home/pedro/dev/antfood/percussive-gen/data/audio/McDonalds_Overposter_FastBreak_DS_2011.wav,McDonalds_Overposter_FastBreak_DS_2011.wav,84
+Alligator (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/AFL-CIO_AFL-CIO_Alligator_Original_110911_Eb_145_4-4_SC_NXT.wav,AFL-CIO_AFL-CIO_Alligator_Original_110911_Eb_145_4-4_SC_NXT.wav,65
+Siphon (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/Starbucks_Frapp_Siphon_D_135_4-4_WB_ATEdit_220121.wav,Starbucks_Frapp_Siphon_D_135_4-4_WB_ATEdit_220121.wav,85
+Bossa Sacundin (Trophy.wav),/home/pedro/dev/antfood/percussive-gen/data/audio/Google_Chromebook_BossaSacundin_Trophy.wav,Google_Chromebook_BossaSacundin_Trophy.wav,82
+Gridiron (102312),/home/pedro/dev/antfood/percussive-gen/data/audio/Nike_CollegeFootball_Gridiron_102312_WB_Dm_150_4-4_NXT.wav,Nike_CollegeFootball_Gridiron_102312_WB_Dm_150_4-4_NXT.wav,47
+Karmania (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/Ford_FusionCampaign_Karmania_D_103_AM_WB_ATEdit_220110.wav,Ford_FusionCampaign_Karmania_D_103_AM_WB_ATEdit_220110.wav,84
+Royal Rush (90s),/home/pedro/dev/antfood/percussive-gen/data/audio/Ford_FusionCampaign_RoyalRush_F_160_SC_AM_ATEdit_211221.wav,Ford_FusionCampaign_RoyalRush_F_160_SC_AM_ATEdit_211221.wav,90
+Alley Katz (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/JCPenny_BlackFriday_AlleyKatz_Original_110612_Am_105_4-4_WBCVK_NXT.wav,JCPenny_BlackFriday_AlleyKatz_Original_110612_Am_105_4-4_WBCVK_NXT.wav,72
+Put It Together (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/Ford_Carwash_PutItTogether_B_128_4-4_WB_ATEdit_220118.wav,Ford_Carwash_PutItTogether_B_128_4-4_WB_ATEdit_220118.wav,81
+Titan (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/1025_Titan.wav,1025_Titan.wav,85
+Always Knew (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/Tide_Febreeze_AlwaysKnew_Original_072313_F_125_4-4_CK_NXT.wav,Tide_Febreeze_AlwaysKnew_Original_072313_F_125_4-4_CK_NXT.wav,85
+All In (Whistle),/home/pedro/dev/antfood/percussive-gen/data/audio/FruitSnacks_ClawMachine_AllIn_Whistle_141118_Cm_90_3-4_SC_NXT.wav,FruitSnacks_ClawMachine_AllIn_Whistle_141118_Cm_90_3-4_SC_NXT.wav,33
+Fuller Loop (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/Twitter_Cannes_Fuller_C_70_4-4_SC_ATEdit_220103.wav,Twitter_Cannes_Fuller_C_70_4-4_SC_ATEdit_220103.wav,47
+Gift Of Flight (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/Dramamine_GiftofFlight_A_140_WB_ATEdit.wav,Dramamine_GiftofFlight_A_140_WB_ATEdit.wav,78
+Jump (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/Beano_OrderMatters_Jump_Bm_108_PB_ATEdit_220103.wav,Beano_OrderMatters_Jump_Bm_108_PB_ATEdit_220103.wav,37
+New Dimensions (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/ESTEELAUDER_NewDimensions_NewDimensions_Original_2015_Bm_165_3-4_VN.wav,ESTEELAUDER_NewDimensions_NewDimensions_Original_2015_Bm_165_3-4_VN.wav,15
+Smarter Child (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/NCTA_OnwardInternet_SmarterChild_Original_140924_E_4-4_140_WB.wav,NCTA_OnwardInternet_SmarterChild_Original_140924_E_4-4_140_WB.wav,56
+Creepy Sexy Love Party (Guitar),/home/pedro/dev/antfood/percussive-gen/data/audio/ADCN_Titles_CreepySexyLoveParty_Guitar_160407_Am_80_PB_ATEdit_211214.wav,ADCN_Titles_CreepySexyLoveParty_Guitar_160407_Am_80_PB_ATEdit_211214.wav,41
+Blausee (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150681_AICP_2017Titles_Blausee.wav,17150681_AICP_2017Titles_Blausee.wav,15
+Stiller Time (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150682_AICP_2017Titles_StillerTime_Original_WBEdit_201223.wav,17150682_AICP_2017Titles_StillerTime_Original_WBEdit_201223.wav,18
+Distrophic (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150683_AICP_NextTitles_Distrophic_160802_qt.wav,17150683_AICP_NextTitles_Distrophic_160802_qt.wav,15
+Skinner (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150684_AICPNEXT_2017Titles_Skinner_170602_qt-01.wav,17150684_AICPNEXT_2017Titles_Skinner_170602_qt-01.wav,15
+Houston (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150685_AICPNEXT_Houston_170519_qt.wav,17150685_AICPNEXT_Houston_170519_qt.wav,68
+Pulses Test (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150686_AICPNEXT_PulsesTest_170519_qt.wav,17150686_AICPNEXT_PulsesTest_170519_qt.wav,15
+Sandovalia (2 Minute Mix),/home/pedro/dev/antfood/percussive-gen/data/audio/17150687_AnalogueLoaders_Sandovalia_MUS_161121_qt.wav,17150687_AnalogueLoaders_Sandovalia_MUS_161121_qt.wav,74
+Binding (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150689_ANewWay_Binding_170802_qt.wav,17150689_ANewWay_Binding_170802_qt.wav,85
+Creepy Folks (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150710_Arla_rBST_CreepyFolks_MUS_180123_qt.wav,17150710_Arla_rBST_CreepyFolks_MUS_180123_qt.wav,29
+Wicked (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150714_Arla_rBST_Wicked_170317_qt.wav,17150714_Arla_rBST_Wicked_170317_qt.wav,38
+Bebe (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150715_Arla_Xanthan_Bebe_MUS_170317_qt.wav,17150715_Arla_Xanthan_Bebe_MUS_170317_qt.wav,15
+Dramal (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150716_Arla_Xanthan_Dramal_MUS_170317_qt.wav,17150716_Arla_Xanthan_Dramal_MUS_170317_qt.wav,15
+Léon (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150720_Arla_Xanthan_Leon_MUS_170317_qt.wav,17150720_Arla_Xanthan_Leon_MUS_170317_qt.wav,43
+Trifocals (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150723_Arla_Xanthan_Trifocals_MUS_170317_qt.wav,17150723_Arla_Xanthan_Trifocals_MUS_170317_qt.wav,17
+Gold Sneakers (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150726_BBC_Brit_Gloves_GoldSneakers_140408_qt.wav,17150726_BBC_Brit_Gloves_GoldSneakers_140408_qt.wav,66
+Soco Na Cara (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150728_beINSPORTS_SocoNaCara_170802_qt.wav,17150728_beINSPORTS_SocoNaCara_170802_qt.wav,82
+Warmth Within (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150741_BlackoutVR_Ch3_170901_LIBRARY_DH.wav,17150741_BlackoutVR_Ch3_170901_LIBRARY_DH.wav,85
+Aspri (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150742_BlackOutVR_Ch5_170829_LIBRARY_YE.wav,17150742_BlackOutVR_Ch5_170829_LIBRARY_YE.wav,39
+Kroiph (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150743_BlackoutVR_Kickstarter_Kroiph_150917_qt.wav,17150743_BlackoutVR_Kickstarter_Kroiph_150917_qt.wav,61
+Mosa (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150744_BlackoutVR_Kickstarter_Mosa_150917_qt.wav,17150744_BlackoutVR_Kickstarter_Mosa_150917_qt.wav,70
+Deuces (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150748_Bridgespan_Health_Deuces_MUS_160915_qt.wav,17150748_Bridgespan_Health_Deuces_MUS_160915_qt.wav,18
+Spanning Bridges (Electric Guitar),/home/pedro/dev/antfood/percussive-gen/data/audio/17150749_Bridgespan_Health_ElectricGuitar_MUS_160923_qt.wav,17150749_Bridgespan_Health_ElectricGuitar_MUS_160923_qt.wav,87
+Spanning Bridges (Marimba),/home/pedro/dev/antfood/percussive-gen/data/audio/17150750_Bridgespan_Health_Marimba_MUS_160921_qt.wav,17150750_Bridgespan_Health_Marimba_MUS_160921_qt.wav,87
+Plates Too Clean (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150752_Bridgespan_Health_PlatesTooClean_Perc_MUS_160915_qt.wav,17150752_Bridgespan_Health_PlatesTooClean_Perc_MUS_160915_qt.wav,35
+An Apple A Day (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150754_BridgeSpan_NarrowingTheCrowd_AnAppleADay_MUS_160908_qt.wav,17150754_BridgeSpan_NarrowingTheCrowd_AnAppleADay_MUS_160908_qt.wav,85
+Grenadier (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150755_BridgeSpan_NarrowingTheCrowd_Grenadier_MUS_160908_qt.wav,17150755_BridgeSpan_NarrowingTheCrowd_Grenadier_MUS_160908_qt.wav,32
+Rhythm Doctor (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150756_BridgeSpan_NarrowingTheCrowd_RhythmDoctor_MUS_160908_qt.wav,17150756_BridgeSpan_NarrowingTheCrowd_RhythmDoctor_MUS_160908_qt.wav,39
+Straits Too Lean (Bass),/home/pedro/dev/antfood/percussive-gen/data/audio/17150757_BridgeSpan_NarrowingTheCrowd_StraitsTooLeanBASS_MUS_160908_qt.wav,17150757_BridgeSpan_NarrowingTheCrowd_StraitsTooLeanBASS_MUS_160908_qt.wav,61
+Straits Too Lean (Minimal),/home/pedro/dev/antfood/percussive-gen/data/audio/17150758_BridgeSpan_NarrowingTheCrowd_StraitsTooLeanPERC_MUS_160908_qt.wav,17150758_BridgeSpan_NarrowingTheCrowd_StraitsTooLeanPERC_MUS_160908_qt.wav,61
+Pajé (Short),/home/pedro/dev/antfood/percussive-gen/data/audio/17150761_BriskMate_MUS_15_Paje_160203_qt.wav,17150761_BriskMate_MUS_15_Paje_160203_qt.wav,47
+Pluvakak (15s),/home/pedro/dev/antfood/percussive-gen/data/audio/17150762_BriskMate_MUS_15_Pluvakak_160203_qt.wav,17150762_BriskMate_MUS_15_Pluvakak_160203_qt.wav,70
+Ritual (15s),/home/pedro/dev/antfood/percussive-gen/data/audio/17150763_BriskMate_MUS_15_Ritual_160203_qt.wav,17150763_BriskMate_MUS_15_Ritual_160203_qt.wav,79
+Looking Glass (Electro Hero),/home/pedro/dev/antfood/percussive-gen/data/audio/17150764_BriskMate_MUS_30_LookingGlass_160203_qt.wav,17150764_BriskMate_MUS_30_LookingGlass_160203_qt.wav,60
+Pajé (30),/home/pedro/dev/antfood/percussive-gen/data/audio/17150765_BriskMate_MUS_30_Paje_160203_qt.wav,17150765_BriskMate_MUS_30_Paje_160203_qt.wav,34
+Pluvakak (30s),/home/pedro/dev/antfood/percussive-gen/data/audio/17150766_BriskMate_MUS_30_Pluvakak_160203_qt.wav,17150766_BriskMate_MUS_30_Pluvakak_160203_qt.wav,70
+Ritual (30s),/home/pedro/dev/antfood/percussive-gen/data/audio/17150767_BriskMate_MUS_30_Ritual_160203_qt.wav,17150767_BriskMate_MUS_30_Ritual_160203_qt.wav,79
+Perro (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150772_Bud_LostDog_Perro_150113_qt.wav,17150772_Bud_LostDog_Perro_150113_qt.wav,82
+Reynauld (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150773_Bud_LostDog_Reynauld_150113_qt.wav,17150773_Bud_LostDog_Reynauld_150113_qt.wav,15
+Singol (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150774_Bud_LostDog_Singol_150113_qt.wav,17150774_Bud_LostDog_Singol_150113_qt.wav,45
+Compass (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150775_BurtsBees_ForceOfNature_Compass_170710_LIBRARY_DH.wav,17150775_BurtsBees_ForceOfNature_Compass_170710_LIBRARY_DH.wav,85
+Krudo (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150776_BurtsBees_ForceOfNature_Krudo_170710_LIBRARY_PSB.wav,17150776_BurtsBees_ForceOfNature_Krudo_170710_LIBRARY_PSB.wav,15
+Bernie (20s),/home/pedro/dev/antfood/percussive-gen/data/audio/17150777_BurtsBees_Uncap_ENG_20_Splits_MUS_Bernie_151021_qt.wav,17150777_BurtsBees_Uncap_ENG_20_Splits_MUS_Bernie_151021_qt.wav,85
+Bernie (30s),/home/pedro/dev/antfood/percussive-gen/data/audio/17150778_BurtsBees_Uncap_ENG_30_Splits_MUS_Bernie_151021_qt.wav,17150778_BurtsBees_Uncap_ENG_30_Splits_MUS_Bernie_151021_qt.wav,85
+Fofa (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150779_CANON_Orchard_Fofa_140513_qt.wav,17150779_CANON_Orchard_Fofa_140513_qt.wav,89
+Sandbar (Alt),/home/pedro/dev/antfood/percussive-gen/data/audio/17150785_Casper_IndustryChange_Sandbar_MUS_160405_qt.wav,17150785_Casper_IndustryChange_Sandbar_MUS_160405_qt.wav,40
+Don Giorgio (15s),/home/pedro/dev/antfood/percussive-gen/data/audio/17150788_Casper_OppositesAttract_DonGiorgio_MUS_160524_qt.wav,17150788_Casper_OppositesAttract_DonGiorgio_MUS_160524_qt.wav,68
+Carneiros (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150793_Casper_SleepBetter_Carneiros.wav,17150793_Casper_SleepBetter_Carneiros.wav,57
+Don Giorgio (30s),/home/pedro/dev/antfood/percussive-gen/data/audio/17150795_Casper_SleepBetter_DonGiorgio.wav,17150795_Casper_SleepBetter_DonGiorgio.wav,68
+Graze (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150798_Casper_SleepBetter_Graze.wav,17150798_Casper_SleepBetter_Graze.wav,79
+Hummus Party (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150799_Casper_SleepBetter_HummusParty.wav,17150799_Casper_SleepBetter_HummusParty.wav,85
+Sandbar (Original Version),/home/pedro/dev/antfood/percussive-gen/data/audio/17150804_Casper_SleepBetter_Sandbar.wav,17150804_Casper_SleepBetter_Sandbar.wav,40
+Styx (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150806_Casper_SleepBetter_Styx.wav,17150806_Casper_SleepBetter_Styx.wav,87
+The Letter (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150807_Casper_SleepBetter_TheLetter.wav,17150807_Casper_SleepBetter_TheLetter.wav,87
+Tungsten (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150809_Casper_SleepBetter_Tungsten.wav,17150809_Casper_SleepBetter_Tungsten.wav,76
+Vulcan (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150810_Casper_SleepBetter_Vulcan.wav,17150810_Casper_SleepBetter_Vulcan.wav,76
+Wrinkles (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150811_Casper_SleepBetter_Wrinkles.wav,17150811_Casper_SleepBetter_Wrinkles.wav,59
+Yearbook (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150812_Casper_SleepBetter_Yearbook.wav,17150812_Casper_SleepBetter_Yearbook.wav,87
+Cotton Candy Time (Short Mix),/home/pedro/dev/antfood/percussive-gen/data/audio/17150814_CCT_clip1_160624_qt.wav,17150814_CCT_clip1_160624_qt.wav,85
+Midtown East (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150815_CharlieRose_MidtownEast_MUS_160901_qt.wav,17150815_CharlieRose_MidtownEast_MUS_160901_qt.wav,85
+Pinkertons (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150816_CharlieRose_Pinkertons_MUS_160902_qt_LIBEDIT_FixedEnding_MIA_190701.wav,17150816_CharlieRose_Pinkertons_MUS_160902_qt_LIBEDIT_FixedEnding_MIA_190701.wav,85
+Theme Revamp (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150817_CharlieRose_ThemeRevamp_MUS_160902_qt.wav,17150817_CharlieRose_ThemeRevamp_MUS_160902_qt.wav,85
+Top Hat (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150818_CharlieRose_TopHat_MUS_160527_qt.wav,17150818_CharlieRose_TopHat_MUS_160527_qt.wav,85
+Warm Lights (Extended Theme),/home/pedro/dev/antfood/percussive-gen/data/audio/17150819_CharlieRose_Warmlights_MUS_160902_qt.wav,17150819_CharlieRose_Warmlights_MUS_160902_qt.wav,83
+Symmetry (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150821_Charter_Spectrum_Teaser_Symmetry_131118_qt.wav,17150821_Charter_Spectrum_Teaser_Symmetry_131118_qt.wav,52
+Advice (Extended I),/home/pedro/dev/antfood/percussive-gen/data/audio/17150827_CognizantA_GAP_Advice_MUS_131126_qt.wav,17150827_CognizantA_GAP_Advice_MUS_131126_qt.wav,72
+Advice (Extended II),/home/pedro/dev/antfood/percussive-gen/data/audio/17150829_CognizantC_GAP_Advice_MUS_131204_qt.wav,17150829_CognizantC_GAP_Advice_MUS_131204_qt.wav,72
+Pelican (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150830_Converse_JusticeLeague_Pelican_170821_YE.wav,17150830_Converse_JusticeLeague_Pelican_170821_YE.wav,41
+Rebar (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150831_Converse_JusticeLeague_Rebar_170821_LIBRARY_SC.wav,17150831_Converse_JusticeLeague_Rebar_170821_LIBRARY_SC.wav,37
+Steppenwolf (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150832_Converse_JusticeLeague_Steppenwolf_170821_PSB.wav,17150832_Converse_JusticeLeague_Steppenwolf_170821_PSB.wav,77
+Super Duper  Friends (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150833_Converse_JusticeLeague_Superfriends_170821_LIBRARY_SC.wav,17150833_Converse_JusticeLeague_Superfriends_170821_LIBRARY_SC.wav,78
+Tandem Ski (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150834_Converse_JusticeLeague_TandemSki_-1dbfs_170907_YE.wav,17150834_Converse_JusticeLeague_TandemSki_-1dbfs_170907_YE.wav,65
+Wheeler (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150835_Converse_JusticeLeague_Wheeler_170821_LIBRARY_SC.wav,17150835_Converse_JusticeLeague_Wheeler_170821_LIBRARY_SC.wav,56
+All Carrot No Stick (Bb),/home/pedro/dev/antfood/percussive-gen/data/audio/Converse_LTR_AllCarrotNoStick_Bb_4-4_80.wav,Converse_LTR_AllCarrotNoStick_Bb_4-4_80.wav,39
+Drop It (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150837_Converse_LTR_DropIt_LIB_170717-01.wav,17150837_Converse_LTR_DropIt_LIB_170717-01.wav,85
+Dr Spaceman (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150838_Converse_LTR_DrSpaceman_LIB_170724.wav,17150838_Converse_LTR_DrSpaceman_LIB_170724.wav,15
+Fibula (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150839_Converse_LTR_Fibula_LIB_170717.wav,17150839_Converse_LTR_Fibula_LIB_170717.wav,63
+Get Acme Bro (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150840_Converse_LTR_GetAcmeBro_LIB_170717.wav,17150840_Converse_LTR_GetAcmeBro_LIB_170717.wav,34
+Space Podiatrist (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150841_Converse_LTR_SpacePodiatrist_LIB_170724.wav,17150841_Converse_LTR_SpacePodiatrist_LIB_170724.wav,38
+Squeak Out (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150842_Converse_LTR_SqueakOut_LIB_170724.wav,17150842_Converse_LTR_SqueakOut_LIB_170724.wav,37
+Succotashtic (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150843_Converse_LTR_Succotashtic_LIB_170717.wav,17150843_Converse_LTR_Succotashtic_LIB_170717.wav,62
+Where Are Your Manners ((Fancy Ghost Remix)),/home/pedro/dev/antfood/percussive-gen/data/audio/17150844_Converse_LTR_WhereAreYourManners_LIB_170717.wav,17150844_Converse_LTR_WhereAreYourManners_LIB_170717.wav,23
+Classy Piano (A Minor),/home/pedro/dev/antfood/percussive-gen/data/audio/17150846_Corian_ClassyPiano_Aminor_170901_LIBRARY_DH.wav,17150846_Corian_ClassyPiano_Aminor_170901_LIBRARY_DH.wav,44
+On A Mission (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150848_Corian_OnAMission_170905_LIBRARY_WB.wav,17150848_Corian_OnAMission_170905_LIBRARY_WB.wav,60
+Polymer (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150849_Corian_Polymer_170717_LIBRARY_SC.wav,17150849_Corian_Polymer_170717_LIBRARY_SC.wav,55
+Polymer (Synth Bass),/home/pedro/dev/antfood/percussive-gen/data/audio/17150850_Corian_Polymer_SynthBass_170717_LIBRARY_SC.wav,17150850_Corian_Polymer_SynthBass_170717_LIBRARY_SC.wav,75
+Algodão (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150851_Cotton_Algodao_151030_qt.wav,17150851_Cotton_Algodao_151030_qt.wav,85
+Mrs Hartford (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150852_Cotton_MrsHartford_151030_qt.wav,17150852_Cotton_MrsHartford_151030_qt.wav,54
+Not A Joke (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150854_Cotton_NotAJoke_151030_qt.wav,17150854_Cotton_NotAJoke_151030_qt.wav,43
+Lamp (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150858_Cree_Hands_15_Lamp_MUS_160411_qt.wav,17150858_Cree_Hands_15_Lamp_MUS_160411_qt.wav,85
+Blue Dress (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150861_Damas_Sama_BlueDress_160426_qt.wav,17150861_Damas_Sama_BlueDress_160426_qt.wav,79
+Harford (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150863_Damas_Sama_Harford_160426_qt.wav,17150863_Damas_Sama_Harford_160426_qt.wav,81
+Librarian (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150864_Damas_Sama_Librarian_160426_qt.wav,17150864_Damas_Sama_Librarian_160426_qt.wav,69
+Raskin (Bigger Mix),/home/pedro/dev/antfood/percussive-gen/data/audio/17150865_Damas_Sama_RaskinB_160520_qt.wav,17150865_Damas_Sama_RaskinB_160520_qt.wav,28
+Raskin (Drama),/home/pedro/dev/antfood/percussive-gen/data/audio/17150866_Damas_Sama_RaskinA_1604326_qt.wav,17150866_Damas_Sama_RaskinA_1604326_qt.wav,32
+Rhea (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150867_Damas_Sama_Rhea_1604326_qt.wav,17150867_Damas_Sama_Rhea_1604326_qt.wav,40
+Slow On (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150868_Damas_Sama_SlowOn_160426_qt.wav,17150868_Damas_Sama_SlowOn_160426_qt.wav,33
+Velvet Undertones (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150869_Damas_Sama_Velvet_160426_qt.wav,17150869_Damas_Sama_Velvet_160426_qt.wav,49
+Cerberus (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150871_DB_Cerebrus_DC_MUS_170803_qt.wav,17150871_DB_Cerebrus_DC_MUS_170803_qt.wav,32
+Air Tight (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150872_DEW_LabelVR_Airtight_ForLibrary_170123_qt.wav,17150872_DEW_LabelVR_Airtight_ForLibrary_170123_qt.wav,10
+Ill Wave (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150873_DEW_LabelVR_IllWave_170113_qt.wav,17150873_DEW_LabelVR_IllWave_170113_qt.wav,82
+Perrier (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150875_DEW_LabelVR_Perrier_170113_qt.wav,17150875_DEW_LabelVR_Perrier_170113_qt.wav,62
+Shims (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150876_Dramamine_GiftOfFlight_Shims_150805_qt.wav,17150876_Dramamine_GiftOfFlight_Shims_150805_qt.wav,62
+Bellowgust (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150879_DrPepper_Cymatic_Bellowgust_170614_LIBRARY_YE.wav,17150879_DrPepper_Cymatic_Bellowgust_170614_LIBRARY_YE.wav,35
+Grandchamp (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150880_DrPepper_Cymatic_Grandchamp_170614.1_PSB.aif,17150880_DrPepper_Cymatic_Grandchamp_170614.1_PSB.aif,28
+Ice Pack (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150882_DrPepper_Cymatic_IcePack_170614_LIBRARY_SC.wav,17150882_DrPepper_Cymatic_IcePack_170614_LIBRARY_SC.wav,66
+Peter Piper (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150883_DrPepper_Cymatic_PeterPiper_170614_LIBRARY_SC.wav,17150883_DrPepper_Cymatic_PeterPiper_170614_LIBRARY_SC.wav,71
+Wall Ball (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150885_DrPepper_Cymatic_WallBall_170825_LIBRARY_SC.wav,17150885_DrPepper_Cymatic_WallBall_170825_LIBRARY_SC.wav,73
+Chispa (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150886_DrPepper_Sights_Chispa_170831_LIBRARY_DH.wav,17150886_DrPepper_Sights_Chispa_170831_LIBRARY_DH.wav,63
+Elote (Fast),/home/pedro/dev/antfood/percussive-gen/data/audio/17150887_DrPepper_Sights_EloteFAST_170614_LIBRARY_DH.wav,17150887_DrPepper_Sights_EloteFAST_170614_LIBRARY_DH.wav,63
+Elote (Slow),/home/pedro/dev/antfood/percussive-gen/data/audio/17150888_DrPepper_Sights_EloteSlow_170831_LIBRARY_DH.wav,17150888_DrPepper_Sights_EloteSlow_170831_LIBRARY_DH.wav,63
+Prune Swoon (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150889_DrPepper_Sights_PruneSwoon_170614_LIBRARY_SC.wav,17150889_DrPepper_Sights_PruneSwoon_170614_LIBRARY_SC.wav,82
+Fidget (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150893_Ebay_BTS_Fidget_MUS_170707_qt.wav,17150893_Ebay_BTS_Fidget_MUS_170707_qt.wav,57
+Free Life (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150895_EsteeLauder_NewDimensions_Freelife_MUS_150608_qt.wav,17150895_EsteeLauder_NewDimensions_Freelife_MUS_150608_qt.wav,85
+Batata Baroa (Vocal),/home/pedro/dev/antfood/percussive-gen/data/audio/17150896_EuroWax_Manifesto_BatataBaroa_112013_qt.wav,17150896_EuroWax_Manifesto_BatataBaroa_112013_qt.wav,63
+Batata Baroa (Instrumental),/home/pedro/dev/antfood/percussive-gen/data/audio/17150897_EuroWax_Manifesto_BatataBaroa_Instrumental_112013_qt.wav,17150897_EuroWax_Manifesto_BatataBaroa_Instrumental_112013_qt.wav,63
+Sol (Instrumental),/home/pedro/dev/antfood/percussive-gen/data/audio/17150899_EuroWax_Manifesto_Sol_Instrumental_112013_qt.wav,17150899_EuroWax_Manifesto_Sol_Instrumental_112013_qt.wav,82
+Higher Ground (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150900_Experian_Bridge_HigherGround_OP1_082713_7PM_qt.wav,17150900_Experian_Bridge_HigherGround_OP1_082713_7PM_qt.wav,51
+Las Canarias (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150901_Experian_Bridge_LasCanarias_MUSOnly_083013_qt_LIBEDIT_FixedEnding_MIA_190701.wav,17150901_Experian_Bridge_LasCanarias_MUSOnly_083013_qt_LIBEDIT_FixedEnding_MIA_190701.wav,21
+Brinquedo (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150903_Exxon_Petrochemicals_Brinquedo_141216_qt.wav,17150903_Exxon_Petrochemicals_Brinquedo_141216_qt.wav,85
+Ipixe (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150904_Exxon_Petrochemicals_Ipixe_141216_qt.wav,17150904_Exxon_Petrochemicals_Ipixe_141216_qt.wav,85
+Walden (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150905_Exxon_Petrochemicals_Walden_141216_qt-1.wav,17150905_Exxon_Petrochemicals_Walden_141216_qt-1.wav,85
+Obsessiv Attraction (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150910_F5_ObsessivAttraction_MusSplit_150409_qt.wav,17150910_F5_ObsessivAttraction_MusSplit_150409_qt.wav,85
+Bookworm (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150918_Facebook_Groups_Education_Bookworm_MUS_160516_qt.wav,17150918_Facebook_Groups_Education_Bookworm_MUS_160516_qt.wav,64
+You Name It (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150919_Facebook_Groups_Education_MUS_160524_qt.wav,17150919_Facebook_Groups_Education_MUS_160524_qt.wav,86
+Head Notes (Beat),/home/pedro/dev/antfood/percussive-gen/data/audio/17150924_Facebook_Groups_HeadNotes_Beat1_170802_qt.wav,17150924_Facebook_Groups_HeadNotes_Beat1_170802_qt.wav,73
+Beat2Continental (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150925_Facebook_Groups_HeadNotes_Beat2Continental_170802_qt.wav,17150925_Facebook_Groups_HeadNotes_Beat2Continental_170802_qt.wav,85
+Blues Clues Guitar (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150926_Facebook_Groups_HeadNotes_Beat2DIStrat_170802_qt.wav,17150926_Facebook_Groups_HeadNotes_Beat2DIStrat_170802_qt.wav,85
+Slippery Soap (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150928_Facebook_Groups_HeadNotes_Op1_170802_qt.wav,17150928_Facebook_Groups_HeadNotes_Op1_170802_qt.wav,62
+Felt Friends (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150929_Facebook_Groups_HeadNotes_Op1_MUS_160422_qt.wav,17150929_Facebook_Groups_HeadNotes_Op1_MUS_160422_qt.wav,85
+Uke Shake (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150931_Facebook_Groups_HeadNotes_UkeShake_170802_qt.wav,17150931_Facebook_Groups_HeadNotes_UkeShake_170802_qt.wav,78
+Jumpin Jehoshaphat (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150936_Facebook_Groups_PipeWords_JumpinJehoshaphat_160502_qt.wav,17150936_Facebook_Groups_PipeWords_JumpinJehoshaphat_160502_qt.wav,57
+Seesaw (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150937_Facebook_Groups_Seesaw_MUS_160614_qt.wav,17150937_Facebook_Groups_Seesaw_MUS_160614_qt.wav,85
+Dr Crane (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150938_Facebook_Groups_Seesaw_OpA_MUS_160607_qt.wav,17150938_Facebook_Groups_Seesaw_OpA_MUS_160607_qt.wav,85
+Leeves (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150940_Facebook_Groups_Seesaw_OpC_MUS_160607_qt.wav,17150940_Facebook_Groups_Seesaw_OpC_MUS_160607_qt.wav,79
+Gumball (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150941_Facebook_Groups_SentaiParents_MUS_160426.1_qt.aif,17150941_Facebook_Groups_SentaiParents_MUS_160426.1_qt.aif,64
+Miss Mary Gold (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150946_Facebook_Groups_Snowball_MUS_OpA_160607_qt.wav,17150946_Facebook_Groups_Snowball_MUS_OpA_160607_qt.wav,85
+Mr Morty Silver (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150947_Facebook_Groups_Snowball_MUS_OpB_160607_qt.wav,17150947_Facebook_Groups_Snowball_MUS_OpB_160607_qt.wav,85
+Trampoline (A),/home/pedro/dev/antfood/percussive-gen/data/audio/17150952_Facebook_Groups_Trampoline_MUS_160516_qt.wav,17150952_Facebook_Groups_Trampoline_MUS_160516_qt.wav,71
+Trampoline (B),/home/pedro/dev/antfood/percussive-gen/data/audio/17150953_Facebook_Groups_Trampoline_Op1_MUS_160513_qt.wav,17150953_Facebook_Groups_Trampoline_Op1_MUS_160513_qt.wav,71
+Tossed Salad and Scrambled Eggs (Short),/home/pedro/dev/antfood/percussive-gen/data/audio/17150954_Facebook_Groups_Transporter_MUS_160606_qt.wav,17150954_Facebook_Groups_Transporter_MUS_160606_qt.wav,85
+Vivaldimort (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150955_Facebook_Groups_Transporter_MUS_OpA_160601_qt.wav,17150955_Facebook_Groups_Transporter_MUS_OpA_160601_qt.wav,64
+Old York Old York (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150956_Facebook_Groups_Transporter_MUS_OpB_160601_qt.wav,17150956_Facebook_Groups_Transporter_MUS_OpB_160601_qt.wav,80
+Tossed Salad and Scrambled Eggs (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150961_Facebook_GroupsReel_Transporter_MUS_160804_qt.wav,17150961_Facebook_GroupsReel_Transporter_MUS_160804_qt.wav,85
+How I Met Your (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150962_Facebook_Messenger_Dinner_MUS_HowIMetYour_160831_qt.wav,17150962_Facebook_Messenger_Dinner_MUS_HowIMetYour_160831_qt.wav,86
+Caret (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150963_Facebook_Reactions_Caret_151218_qt.wav,17150963_Facebook_Reactions_Caret_151218_qt.wav,85
+Carousel (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150964_Facebook_Reactions_Carousel_151218_qt.wav,17150964_Facebook_Reactions_Carousel_151218_qt.wav,85
+Garments (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150968_Facebook_Reactions_Garments_MUS_151218_qt.wav,17150968_Facebook_Reactions_Garments_MUS_151218_qt.wav,83
+Pep (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150970_Facebook_Reactions_Pep_MUS_151220_qt.wav,17150970_Facebook_Reactions_Pep_MUS_151220_qt.wav,85
+Simple Life (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150972_Facebook_Reactions_SimpleLife_MUS_151218_qt.wav,17150972_Facebook_Reactions_SimpleLife_MUS_151218_qt.wav,68
+Trench (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150974_Facebook_Reactions_Trench_MUS_151222_qt.wav,17150974_Facebook_Reactions_Trench_MUS_151222_qt.wav,58
+Zany Brains (Charged Mix),/home/pedro/dev/antfood/percussive-gen/data/audio/17150975_FamilyChannel_CHRGD_ZanyBrains_MUS_30_150603_qt.wav,17150975_FamilyChannel_CHRGD_ZanyBrains_MUS_30_150603_qt.wav,45
+Vaneer (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150976_FamilyJr_LogoResolve_Vaneer_150603_qt.wav,17150976_FamilyJr_LogoResolve_Vaneer_150603_qt.wav,37
+Stay Puft (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150977_FamilyJr_Next_Staypuft_150603_qt.wav,17150977_FamilyJr_Next_Staypuft_150603_qt.wav,36
+Bañana (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150978_FamilyJr_Tomorrow_Banana_150603_qt.wav,17150978_FamilyJr_Tomorrow_Banana_150603_qt.wav,18
+Marmelo (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150979_FamilyJr_Tonight_Marmelo_150603_qt.wav,17150979_FamilyJr_Tonight_Marmelo_150603_qt.wav,82
+Apeck (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150980_FCS_Bridge_Pecker_082313_qt.wav,17150980_FCS_Bridge_Pecker_082313_qt.wav,80
+Arcadology (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/FITC_Titles_Arcadology_Original_160411_Em_92_4-4_WB-YE-DH-PB-SC_NXT.wav,FITC_Titles_Arcadology_Original_160411_Em_92_4-4_WB-YE-DH-PB-SC_NXT.wav,67
+Berne (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150983_Foursquare_Berne_Mix_140213_loop_qt.wav,17150983_Foursquare_Berne_Mix_140213_loop_qt.wav,85
+Carioca Samba (Cavaco e Pandeiro),/home/pedro/dev/antfood/percussive-gen/data/audio/17150984_FruitSnacks_CariocaSamba_Cavaquinho_OpB_Slower_140129_qt.wav,17150984_FruitSnacks_CariocaSamba_Cavaquinho_OpB_Slower_140129_qt.wav,85
+Carioca Samba (Cavaquinho),/home/pedro/dev/antfood/percussive-gen/data/audio/17150985_FruitSnacks_CariocaSamba_Cavaquinho_OpB2_Slower_140129_qt.wav,17150985_FruitSnacks_CariocaSamba_Cavaquinho_OpB2_Slower_140129_qt.wav,85
+Carioca Samba (Cuica),/home/pedro/dev/antfood/percussive-gen/data/audio/17150986_FruitSnacks_CariocaSamba_Cavaquinho_OpC_Slower_140129_qt.wav,17150986_FruitSnacks_CariocaSamba_Cavaquinho_OpC_Slower_140129_qt.wav,85
+Barker (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150987_Fruitsnacks_ClawMachine_30_Splits_MUS_150505_qt.wav,17150987_Fruitsnacks_ClawMachine_30_Splits_MUS_150505_qt.wav,38
+Seepers (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150989_FSSamsung_Seepers_053013.1_qt.aif,17150989_FSSamsung_Seepers_053013.1_qt.aif,55
+Bluish (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150990_Gap_Sustainability_Water_Bluish_160802_qt.wav,17150990_Gap_Sustainability_Water_Bluish_160802_qt.wav,56
+Cylinders (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150991_Gap_Sustainability_Water_Cylinders_160802_qt.wav,17150991_Gap_Sustainability_Water_Cylinders_160802_qt.wav,73
+Heard You (Piano),/home/pedro/dev/antfood/percussive-gen/data/audio/17150992_Gap_Sustainability_Water_HeardYouPiano_160802_qt.wav,17150992_Gap_Sustainability_Water_HeardYouPiano_160802_qt.wav,56
+Heard You (Sine),/home/pedro/dev/antfood/percussive-gen/data/audio/17150993_Gap_Sustainability_Water_HeardYouSine_160802_qt.wav,17150993_Gap_Sustainability_Water_HeardYouSine_160802_qt.wav,58
+Onestrument (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150995_Gap_Sustainability_Water_Onestrument_160802_qt.wav,17150995_Gap_Sustainability_Water_Onestrument_160802_qt.wav,76
+Drexler (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150996_Gap_Water_Drexler_MUS_160727_qt.wav,17150996_Gap_Water_Drexler_MUS_160727_qt.wav,80
+Negative Space (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150997_Gap_Water_NegativeSpace_MUS_160727_qt.wav,17150997_Gap_Water_NegativeSpace_MUS_160727_qt.wav,85
+88 Wakeup (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150998_GeneralMills_BigG_88Wakeup_170901_LIBRARY_DH.wav,17150998_GeneralMills_BigG_88Wakeup_170901_LIBRARY_DH.wav,85
+Chug-a-lug (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17150999_GeneralMills_BigG_Chug-A-lug_170522_LIBRARY_SC.wav,17150999_GeneralMills_BigG_Chug-A-lug_170522_LIBRARY_SC.wav,85
+Crook (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151000_GeneralMills_BigG_Crook_MUS_170508_PSB.wav,17151000_GeneralMills_BigG_Crook_MUS_170508_PSB.wav,79
+Gandalf In The Morning (Ramp),/home/pedro/dev/antfood/percussive-gen/data/audio/17151001_GeneralMills_BigG_GandalfInTheMorningRamp_MUS_170526_LIBRARY_WB.wav,17151001_GeneralMills_BigG_GandalfInTheMorningRamp_MUS_170526_LIBRARY_WB.wav,72
+Gandalf In The Morning (Step),/home/pedro/dev/antfood/percussive-gen/data/audio/17151002_GeneralMills_BigG_GandalfInTheMorningStep_MUS_170526_LIBRARY_WB.wav,17151002_GeneralMills_BigG_GandalfInTheMorningStep_MUS_170526_LIBRARY_WB.wav,72
+Gold Collage (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151003_GeneralMills_BigG_GandalfsGoldCollage_MUS_170525_LIBRARY_WB.wav,17151003_GeneralMills_BigG_GandalfsGoldCollage_MUS_170525_LIBRARY_WB.wav,65
+Get Ready (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151004_GeneralMills_BigG_GetReady_170508_LIBRARY_SC.wav,17151004_GeneralMills_BigG_GetReady_170508_LIBRARY_SC.wav,49
+Good Golly (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151005_GeneralMills_BigG_GoodGolly_170901_LIBRARY_DH.wav,17151005_GeneralMills_BigG_GoodGolly_170901_LIBRARY_DH.wav,95
+Beetletown (Without Maurice and JoJo),/home/pedro/dev/antfood/percussive-gen/data/audio/17151010_GhostsMakingOf_Beetletown_NoRavelBach_150715_qt.wav,17151010_GhostsMakingOf_Beetletown_NoRavelBach_150715_qt.wav,81
+Beetletown (Old School),/home/pedro/dev/antfood/percussive-gen/data/audio/17151011_GhostsMakingOf_Beetletown_OldSchool_150715_qt.wav,17151011_GhostsMakingOf_Beetletown_OldSchool_150715_qt.wav,81
+Airplane Girl (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151012_GiantAnt_AirplaneGirl_MUS_170425_qt.wav,17151012_GiantAnt_AirplaneGirl_MUS_170425_qt.wav,70
+5 Miles (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151013_Gilette_Moonraker_5Miles_160502_qt.wav,17151013_Gilette_Moonraker_5Miles_160502_qt.wav,14
+Creeping On (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151014_Gilette_Moonraker_CreepingOn_160502_qt.wav,17151014_Gilette_Moonraker_CreepingOn_160502_qt.wav,48
+Dilwords (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151015_Gilette_Moonraker_Dilwords_160502_qt.wav,17151015_Gilette_Moonraker_Dilwords_160502_qt.wav,46
+Rubber Mallet (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151016_Gilette_Moonraker_RubberMallet_160502_qt.wav,17151016_Gilette_Moonraker_RubberMallet_160502_qt.wav,15
+Blofeld (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151017_Gillette_Moonraker_Blofeld_160502_qt.wav,17151017_Gillette_Moonraker_Blofeld_160502_qt.wav,69
+Drax (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151018_Gillette_Moonraker_Drax_160502_qt.wav,17151018_Gillette_Moonraker_Drax_160502_qt.wav,28
+Spang (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151019_Gillette_Moonraker_Spang_160502_qt.wav,17151019_Gillette_Moonraker_Spang_160502_qt.wav,16
+Bristol (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151022_Google_Answers_Bristol_MUS_170201_qt.wav,17151022_Google_Answers_Bristol_MUS_170201_qt.wav,100
+Bus Stop (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151023_Google_Answers_BusStop_MUS_170201_qt.wav,17151023_Google_Answers_BusStop_MUS_170201_qt.wav,85
+Here With Me (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151025_Google_Answers_HereWithMe_MUS_170201_qt.wav,17151025_Google_Answers_HereWithMe_MUS_170201_qt.wav,85
+Hurry Home (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151026_Google_Answers_HurryHome_MUS_170201_qt.wav,17151026_Google_Answers_HurryHome_MUS_170201_qt.wav,85
+Semicool (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151027_Google_Answers_Semicool_MUS_170201_qt.wav,17151027_Google_Answers_Semicool_MUS_170201_qt.wav,84
+There With You (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151028_Google_Answers_ThereWithYou_MUS_170201_qt.wav,17151028_Google_Answers_ThereWithYou_MUS_170201_qt.wav,84
+Braggadocious (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151029_Google_Chirp_Braggadocious_160929_qt.wav,17151029_Google_Chirp_Braggadocious_160929_qt.wav,87
+Crypts65 (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151030_Google_Chirp_Crypts65_160929_qt.wav,17151030_Google_Chirp_Crypts65_160929_qt.wav,75
+Homerun (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151031_Google_Chirp_Homerun_OpA_160929_qt.wav,17151031_Google_Chirp_Homerun_OpA_160929_qt.wav,85
+Peep (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151032_Google_Chirp_Peep_160929_qt.wav,17151032_Google_Chirp_Peep_160929_qt.wav,85
+Silver Bullet (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151033_Google_Chirp_SilverBullet_160929_qt.wav,17151033_Google_Chirp_SilverBullet_160929_qt.wav,85
+Crowns (Minimal Mix),/home/pedro/dev/antfood/percussive-gen/data/audio/17151036_Google_CodedWithLove_CrownsMin_MUS_160203_qt.wav,17151036_Google_CodedWithLove_CrownsMin_MUS_160203_qt.wav,69
+Hopper (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151037_Google_CodedWithLove_Hopper_MUS_160203_qt.wav,17151037_Google_CodedWithLove_Hopper_MUS_160203_qt.wav,85
+Crowns (Main Mix),/home/pedro/dev/antfood/percussive-gen/data/audio/17151038_Google_CodedWithLove_MUS_160209_qt.wav,17151038_Google_CodedWithLove_MUS_160209_qt.wav,85
+Sesam (90s),/home/pedro/dev/antfood/percussive-gen/data/audio/17151039_Google_CodedWithLove_Sesam_MUS_160203_qt_PB.wav,17151039_Google_CodedWithLove_Sesam_MUS_160203_qt_PB.wav,60
+Bouncy Castle (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151040_Google_Dots_BouncyCastle_151027_qt.wav,17151040_Google_Dots_BouncyCastle_151027_qt.wav,70
+Sandovalia (Sin Doctor Mix),/home/pedro/dev/antfood/percussive-gen/data/audio/17151041_Google_Dots_SinDoctor_151027_qt.wav,17151041_Google_Dots_SinDoctor_151027_qt.wav,74
+Boom Chic (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151042_Google_EarthVR_Cities_BoomChic_160509_qt.wav,17151042_Google_EarthVR_Cities_BoomChic_160509_qt.wav,82
+Settle (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151043_Google_EarthVR_Cities_Settle_160509_qt.wav,17151043_Google_EarthVR_Cities_Settle_160509_qt.wav,85
+Zoroder (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151044_Google_EarthVR_Cities_Zoroder_160508_qt.wav,17151044_Google_EarthVR_Cities_Zoroder_160508_qt.wav,85
+Spectra (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151045_Google_EarthVR_Colors_Spectra_160511_qt.wav,17151045_Google_EarthVR_Colors_Spectra_160511_qt.wav,85
+Terra Firma (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151046_Google_EarthVR_Colors_TerraFirma_161028_qt.wav,17151046_Google_EarthVR_Colors_TerraFirma_161028_qt.wav,77
+Dune Cruise (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151047_Google_EarthVR_Deserts_DuneCruise_160511_qt.wav,17151047_Google_EarthVR_Deserts_DuneCruise_160511_qt.wav,15
+Normandy (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151051_Google_EarthVR_J2S_Normandy_160603_qt.wav,17151051_Google_EarthVR_J2S_Normandy_160603_qt.wav,85
+Gaia (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151052_Google_EarthVR_JourneyToSpace_Gaia_MUS_160422_qt.wav,17151052_Google_EarthVR_JourneyToSpace_Gaia_MUS_160422_qt.wav,85
+Mondetre (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151053_JourneytoSpace.wav,17151053_JourneytoSpace.wav,85
+Rainbow Child (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151054_Google_EarthVR_JourneyToSpace_RainbowChild_MUS_160422_qt.wav,17151054_Google_EarthVR_JourneyToSpace_RainbowChild_MUS_160422_qt.wav,35
+Aqaba (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151055_Google_EarthVR_Landmarks_Aqaba_FullMIX_160927_qt.wav,17151055_Google_EarthVR_Landmarks_Aqaba_FullMIX_160927_qt.wav,85
+Obelisk (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151056_Google_EarthVR_Landmarks_Obelisk_MUS_160428_qt.wav,17151056_Google_EarthVR_Landmarks_Obelisk_MUS_160428_qt.wav,81
+Solar Flare (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151057_Google_EarthVR_SolarFlare_170413_qt.wav,17151057_Google_EarthVR_SolarFlare_170413_qt.wav,88
+Space Is The Place (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151058_SpaceIsThePlace.wav,17151058_SpaceIsThePlace.wav,85
+Sorry (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151060_Google_EarthVR_T5_CIT_MUS_161027.2_qt.aif,17151060_Google_EarthVR_T5_CIT_MUS_161027.2_qt.aif,59
+Keen (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151063_Google_EarthVR_Water_Keen_160509_qt.wav,17151063_Google_EarthVR_Water_Keen_160509_qt.wav,47
+Thalassa (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151064_Google_EarthVR_Water_Thalassa_Stereo_161031_qt.wav,17151064_Google_EarthVR_Water_Thalassa_Stereo_161031_qt.wav,72
+On The Way (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151065_Google_Express_OnTheWay_MUS_170815_SC.wav,17151065_Google_Express_OnTheWay_MUS_170815_SC.wav,66
+Tricklings (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151066_Google_Express_Tricklings_MUS_170815_YE.wav,17151066_Google_Express_Tricklings_MUS_170815_YE.wav,85
+Glyphs (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151068_Google_Fonts_Glyphs_160602_qt.wav,17151068_Google_Fonts_Glyphs_160602_qt.wav,85
+Morning Person (Minimal Mix),/home/pedro/dev/antfood/percussive-gen/data/audio/17151069_Google_Fonts_MorningPerson_160526_qt.wav,17151069_Google_Fonts_MorningPerson_160526_qt.wav,81
+Ducts (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151070_Google_Gale_Ducts_160926_qt.wav,17151070_Google_Gale_Ducts_160926_qt.wav,73
+Retro Futurist (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151071_Google_Gale_RetroFuturist_160926.1_qt.aif,17151071_Google_Gale_RetroFuturist_160926.1_qt.aif,85
+Shear (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151072_Google_Gale_Shear_160926_qt.wav,17151072_Google_Gale_Shear_160926_qt.wav,67
+Alaska (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151073_Google_Homecoming_Alaska_MUS_160923_qt.wav,17151073_Google_Homecoming_Alaska_MUS_160923_qt.wav,85
+Dwelling (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151075_Google_Homecoming_Dwelling_MUS_160923_qt.wav,17151075_Google_Homecoming_Dwelling_MUS_160923_qt.wav,86
+Kinfolk (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151076_Google_Homecoming_Kinfolk_MUS_160923_qt.wav,17151076_Google_Homecoming_Kinfolk_MUS_160923_qt.wav,85
+No Place Like (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151077_Google_Homecoming_NoPlaceLike_MUS_160923_qt.wav,17151077_Google_Homecoming_NoPlaceLike_MUS_160923_qt.wav,85
+Safe Harbor (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151079_Google_Luther_SafeHarbor_160926_qt.wav,17151079_Google_Luther_SafeHarbor_160926_qt.wav,66
+Vectoria (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151081_Google_material.io_Vectoria_MUS_161003_qt.aif,17151081_Google_material.io_Vectoria_MUS_161003_qt.aif,84
+Doolan (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151082_Google_MaterialDesign_Doolan_MUS_170329_qt.wav,17151082_Google_MaterialDesign_Doolan_MUS_170329_qt.wav,28
+McQuack (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151083_Google_MaterialDesign_McQuack_MUS_170329_qt.wav,17151083_Google_MaterialDesign_McQuack_MUS_170329_qt.wav,85
+Rectangular (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151084_Google_MaterialDesign_NoSD_FinalMix_170503_qt.wav,17151084_Google_MaterialDesign_NoSD_FinalMix_170503_qt.wav,83
+Tertian Leap (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151087_Google_MaterialDesign_TertianLeap_MUS_170329_qt.wav,17151087_Google_MaterialDesign_TertianLeap_MUS_170329_qt.wav,74
+Proxy (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151091_Google_Span2016_Proxy_Sizzle_FinalMix_161221_qt.wav,17151091_Google_Span2016_Proxy_Sizzle_FinalMix_161221_qt.wav,72
+Sixers (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/Google_Span2016_Sixers_160906_C_145_WB_ATEdit_220121.wav,Google_Span2016_Sixers_160906_C_145_WB_ATEdit_220121.wav,81
+Wingnut (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151093_Google_Span2016_Wingnut_160908_qt.wav,17151093_Google_Span2016_Wingnut_160908_qt.wav,85
+Mumtaz (Piano),/home/pedro/dev/antfood/percussive-gen/data/audio/17151094_Google_Taj_Mumtaz_140212_qt.wav,17151094_Google_Taj_Mumtaz_140212_qt.wav,81
+Mumtaz (Harmonium),/home/pedro/dev/antfood/percussive-gen/data/audio/17151095_Google_Taj_Mumtaz_140212.2_qt.aif,17151095_Google_Taj_Mumtaz_140212.2_qt.aif,81
+Shruti (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151097_Google_Taj_Shruti_140212_qt.wav,17151097_Google_Taj_Shruti_140212_qt.wav,85
+Eptesicus (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151100_Google_Trends_Eptesicus_150604_qt.wav,17151100_Google_Trends_Eptesicus_150604_qt.wav,33
+Serum (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151101_Google_Trends_Serum_150603_qt.wav,17151101_Google_Trends_Serum_150603_qt.wav,26
+Clickbait (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151106_GoogleChoupette_Clickbait_160216.1_qt.aif,17151106_GoogleChoupette_Clickbait_160216.1_qt.aif,88
+Dinosaur Playground (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151107_GoogleChoupette_DinosaurPlayground_151120_qt.wav,17151107_GoogleChoupette_DinosaurPlayground_151120_qt.wav,81
+Fiddle With (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151108_GoogleChoupette_FiddleWith_151120_qt.wav,17151108_GoogleChoupette_FiddleWith_151120_qt.wav,72
+Morning Person (Full Mix),/home/pedro/dev/antfood/percussive-gen/data/audio/17151109_GoogleFonts_MorningPerson_MUS_160614_qt.wav,17151109_GoogleFonts_MorningPerson_MUS_160614_qt.wav,81
+McAloon (Slippery),/home/pedro/dev/antfood/percussive-gen/data/audio/17151110_GooglePlay_McAloon_MUS_91.5HipHop_150617_qt.aif,17151110_GooglePlay_McAloon_MUS_91.5HipHop_150617_qt.aif,80
+McAloon (West Coast),/home/pedro/dev/antfood/percussive-gen/data/audio/17151111_GooglePlay_McAloonWIP_150615_qt.wav,17151111_GooglePlay_McAloonWIP_150615_qt.wav,80
+Ambirltzer (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151112_GoogleTrends_Ambirltzer_150604_qt.wav,17151112_GoogleTrends_Ambirltzer_150604_qt.wav,57
+Itinerary (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151115_GoogleX_TheMoonshotFactory_Itinerary_MUS_170428_qt.wav,17151115_GoogleX_TheMoonshotFactory_Itinerary_MUS_170428_qt.wav,70
+The Grand Tour (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151116_GoogleX_TheMoonshotFactory_TheGrandTour_MUS_170428_qt.wav,17151116_GoogleX_TheMoonshotFactory_TheGrandTour_MUS_170428_qt.wav,85
+Zeiss (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151117_GoogleX_TheMoonshotFactory_Zeiss_MUS_170428_qt.wav,17151117_GoogleX_TheMoonshotFactory_Zeiss_MUS_170428_qt.wav,85
+Crescendon't (A),/home/pedro/dev/antfood/percussive-gen/data/audio/17151118_Gravity_Intro_MUSonly_073013_qt.wav,17151118_Gravity_Intro_MUSonly_073013_qt.wav,15
+Crescendon't (B),/home/pedro/dev/antfood/percussive-gen/data/audio/17151119_Gravity_Intro_MUSonly_OP2_073013_qt.wav,17151119_Gravity_Intro_MUSonly_OP2_073013_qt.wav,15
+Mhysa (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151120_GreenGiant_Mhysa_MUS_080213_qt.wav,17151120_GreenGiant_Mhysa_MUS_080213_qt.wav,76
+Earthworks (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151121_GreenGiant_ThisOrThat_Earthworks_MUS_080513_qt.wav,17151121_GreenGiant_ThisOrThat_Earthworks_MUS_080513_qt.wav,80
+Chiffonade (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151122_GWT_Chiffonade_170228_qt.wav,17151122_GWT_Chiffonade_170228_qt.wav,82
+Dingo Babies (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151123_GWT_DingoBabies_170228_qt.wav,17151123_GWT_DingoBabies_170228_qt.wav,80
+Garbanzo (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151124_GWT_Garbanzo_MUS_170306_qt.wav,17151124_GWT_Garbanzo_MUS_170306_qt.wav,56
+Get Real (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151125_GWT_GetReal_170228_qt.wav,17151125_GWT_GetReal_170228_qt.wav,85
+Jane (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151126_GWT_Jane_MUS_170306_qt.wav,17151126_GWT_Jane_MUS_170306_qt.wav,83
+Knitted (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151127_GWT_Knitted_MUS_170306_qt.wav,17151127_GWT_Knitted_MUS_170306_qt.wav,99
+Lesma (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151128_GWT_Lesma_MUS_170306_qt.wav,17151128_GWT_Lesma_MUS_170306_qt.wav,83
+Pit Stop (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151129_GWT_PitStop_MUS_170303_qt.wav,17151129_GWT_PitStop_MUS_170303_qt.wav,85
+Plantains (Guitar),/home/pedro/dev/antfood/percussive-gen/data/audio/17151130_GWT_PlantainsGuitar_MUS_170802_qt.wav,17151130_GWT_PlantainsGuitar_MUS_170802_qt.wav,79
+Withers (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151135_HELLO_Splits_MUS_Withers_170328_qt.wav,17151135_HELLO_Splits_MUS_Withers_170328_qt.wav,85
+Heavy Hand (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/Honda_Mean_HeavyHand_Original_160920_Gm_115_4-4_DH.wav,Honda_Mean_HeavyHand_Original_160920_Gm_115_4-4_DH.wav,59
+Protect and Servo (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151144_Honda_Mean_ProtectAndServo_MUS_160920_qt.wav,17151144_Honda_Mean_ProtectAndServo_MUS_160920_qt.wav,71
+Quintuplets (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151145_Honda_Mean_Quintuplets_MUS_160920_qt.wav,17151145_Honda_Mean_Quintuplets_MUS_160920_qt.wav,53
+Raiden (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151146_Honda_Mean_Raiden_MUS_160920_qt.wav,17151146_Honda_Mean_Raiden_MUS_160920_qt.wav,71
+Shimming (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151147_Honda_Mean_Shimming_MUS_160920_qt.wav,17151147_Honda_Mean_Shimming_MUS_160920_qt.wav,32
+Flyered Up (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151151_Honda_NHLCupHolder_FlyeredUp_150416_qt.wav,17151151_Honda_NHLCupHolder_FlyeredUp_150416_qt.wav,85
+Jockeys (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151153_Honda_NHLCupHolder_Jockeys_150416_qt.wav,17151153_Honda_NHLCupHolder_Jockeys_150416_qt.wav,65
+Bound Brook (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151156_HoneyMaid_Neighbors_BoundBrook_160201_qt.wav,17151156_HoneyMaid_Neighbors_BoundBrook_160201_qt.wav,0
+Crumbs (Short),/home/pedro/dev/antfood/percussive-gen/data/audio/17151157_HoneyMaid_Neighbors_Crumbs_160201_qt.wav,17151157_HoneyMaid_Neighbors_Crumbs_160201_qt.wav,90
+Illuminate (Additional),/home/pedro/dev/antfood/percussive-gen/data/audio/17151158_HoneyMaid_Neighbors_Illuminate_160201_qt.wav,17151158_HoneyMaid_Neighbors_Illuminate_160201_qt.wav,79
+Dream (Short),/home/pedro/dev/antfood/percussive-gen/data/audio/17151159_HoneyMaid_Neighbors_InADream_160201_2p-01.wav,17151159_HoneyMaid_Neighbors_InADream_160201_2p-01.wav,66
+Barbells (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151162_HP_VC_Barbells_MUS_151019_qt.wav,17151162_HP_VC_Barbells_MUS_151019_qt.wav,69
+Ellipse (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151169_IBM_CDS_Ellipse_MUS_160307_qt.wav,17151169_IBM_CDS_Ellipse_MUS_160307_qt.wav,63
+Ranlett (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151171_IBM_CDS_Ranlett_MUS_160307_qt.wav,17151171_IBM_CDS_Ranlett_MUS_160307_qt.wav,63
+Resonance (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151172_IBM_CDS_Resonance_MUS_160307_qt.wav,17151172_IBM_CDS_Resonance_MUS_160307_qt.wav,57
+Fluxivity (Understated),/home/pedro/dev/antfood/percussive-gen/data/audio/17151173_IBM_CDS_Splits_Fluxivity_MUS_130622_qt.wav,17151173_IBM_CDS_Splits_Fluxivity_MUS_130622_qt.wav,85
+Cognitive Consanance (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151174_IBM_Leadership_Banking_CognitiveConsonance_MUS_160823_qt.wav,17151174_IBM_Leadership_Banking_CognitiveConsonance_MUS_160823_qt.wav,78
+Phancy (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151176_IBM_Leadership_Banking_Phancy_MUS_160823_qt.wav,17151176_IBM_Leadership_Banking_Phancy_MUS_160823_qt.wav,65
+Pull and Push (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151177_IBM_Leadership_Banking_PullAndPush_MUS_160823_qt.wav,17151177_IBM_Leadership_Banking_PullAndPush_MUS_160823_qt.wav,76
+Tabulator (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151178_IBM_Leadership_Banking_Tabulator_MUS_160823_qt.wav,17151178_IBM_Leadership_Banking_Tabulator_MUS_160823_qt.wav,59
+Timbrefest (Full),/home/pedro/dev/antfood/percussive-gen/data/audio/17151179_IBM_Leadership_Banking_Timbrefest_MIX_160823_qt.wav,17151179_IBM_Leadership_Banking_Timbrefest_MIX_160823_qt.wav,71
+Timbrefest (Minimal),/home/pedro/dev/antfood/percussive-gen/data/audio/17151180_IBM_Leadership_Banking_Timbrefest_MUS_OpA_160826_qt.wav,17151180_IBM_Leadership_Banking_Timbrefest_MUS_OpA_160826_qt.wav,71
+Breakthrough (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151181_IBM_Watson_Breakthrough_081413_qt.wav,17151181_IBM_Watson_Breakthrough_081413_qt.wav,59
+Breeds (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151182_IBM_Watson_Breeds_081413_qt.wav,17151182_IBM_Watson_Breeds_081413_qt.wav,67
+Arpa (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151183_IBM_Watson_FINANCE_Arpa_081513_qt.wav,17151183_IBM_Watson_FINANCE_Arpa_081513_qt.wav,65
+Decca (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151184_IBM_Watson_FINANCE_Decca_081513_qt.wav,17151184_IBM_Watson_FINANCE_Decca_081513_qt.wav,63
+Découverte (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151185_IBM_Watson_FINANCE_Decouverte_081513_qt.wav,17151185_IBM_Watson_FINANCE_Decouverte_081513_qt.wav,19
+Hutter (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151186_IBM_Watson_Hutter_081413_qt.wav,17151186_IBM_Watson_Hutter_081413_qt.wav,85
+Schladge (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151187_IBM_Watson_Schladge_081413_qt.wav,17151187_IBM_Watson_Schladge_081413_qt.wav,26
+Walkie Talkie (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151188_IceBreakers_Date_Splits_MUS_151030_qt.wav,17151188_IceBreakers_Date_Splits_MUS_151030_qt.wav,62
+Rain Or Shine (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151190_ImaginaryFriends_RainOrShine_MUS_171002_Lib.wav,17151190_ImaginaryFriends_RainOrShine_MUS_171002_Lib.wav,85
+Kerning (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151192_INKJOY_Kerning_150914_ForLibrary_qt.wav,17151192_INKJOY_Kerning_150914_ForLibrary_qt.wav,68
+Just Like Clockwork (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151193_Instagram_LogoLaunch_MUS_160506_qt.wav,17151193_Instagram_LogoLaunch_MUS_160506_qt.wav,85
+Ready To Glide (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151194_JiffyLube_AllLubedUp_MUSIC_160413_qt.wav,17151194_JiffyLube_AllLubedUp_MUSIC_160413_qt.wav,85
+Junebugs (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151195_Junebugs_MUS_160805_qt.wav,17151195_Junebugs_MUS_160805_qt.wav,40
+Ahoy (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151196_Kith_CapnKith_Ahoy_MUS_160922_qt.wav,17151196_Kith_CapnKith_Ahoy_MUS_160922_qt.wav,85
+Colonel Chomp (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151197_KITH_CapnKith_ColonelChomp_MUS_160914_qt.wav,17151197_KITH_CapnKith_ColonelChomp_MUS_160914_qt.wav,68
+Bridge To Terrakithia (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151198_Kith_CapnKith_KingsOfTheirCastles_MUS_160930_qt.wav,17151198_Kith_CapnKith_KingsOfTheirCastles_MUS_160930_qt.wav,85
+Rockawaze (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151200_KITH_CapnKith_Rockawaze_MUS_160914_qt.wav,17151200_KITH_CapnKith_Rockawaze_MUS_160914_qt.wav,76
+Jimbo (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151201_Lays_Poppables_Jimbo_MUS_170222_qt.wav,17151201_Lays_Poppables_Jimbo_MUS_170222_qt.wav,85
+Luke (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151202_Lays_Poppables_Luke_MUS_170217_qt.wav,17151202_Lays_Poppables_Luke_MUS_170217_qt.wav,85
+Mmmm (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151203_Lays_Poppables_Mmmm_30_RefMUS_170307_qt.wav,17151203_Lays_Poppables_Mmmm_30_RefMUS_170307_qt.wav,85
+Swell Picnic (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151204_Lays_Poppables_SwellPicnic_MUS_170217_qt.wav,17151204_Lays_Poppables_SwellPicnic_MUS_170217_qt.wav,87
+Volvelle (A),/home/pedro/dev/antfood/percussive-gen/data/audio/17151205_Lays_Poppables_VolvelleA_MUS_170217_qt.wav,17151205_Lays_Poppables_VolvelleA_MUS_170217_qt.wav,90
+Volvelle (B),/home/pedro/dev/antfood/percussive-gen/data/audio/17151206_Lays_Poppables_VolvelleB_MUS_170222_qt.wav,17151206_Lays_Poppables_VolvelleB_MUS_170222_qt.wav,81
+Dames (A),/home/pedro/dev/antfood/percussive-gen/data/audio/17151207_Lipton_Cafe_Dames_140129_qt.wav,17151207_Lipton_Cafe_Dames_140129_qt.wav,82
+Prune (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151209_Lipton_Cafe_Prune_140128_qt.wav,17151209_Lipton_Cafe_Prune_140128_qt.wav,85
+Ice Box (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151217_Magnolia_Instagram_IceBox_170811_LIBRARY_DH.wav,17151217_Magnolia_Instagram_IceBox_170811_LIBRARY_DH.wav,83
+Sippy Cup (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151218_Magnolia_Instagram_SippyCup_170811_LIBRARY_np.wav,17151218_Magnolia_Instagram_SippyCup_170811_LIBRARY_np.wav,27
+Wallace (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151219_Magnolia_Instagram_Wallace_170811_LIBRARY_PSB.wav,17151219_Magnolia_Instagram_Wallace_170811_LIBRARY_PSB.wav,71
+Gunther (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151220_Magnolia_Intro_30s_Gunther_170906_LIBRARY_DH.wav,17151220_Magnolia_Intro_30s_Gunther_170906_LIBRARY_DH.wav,85
+Coco (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151221_Magnolia_Intro_Coco_170817_LIBRARY_PSB.wav,17151221_Magnolia_Intro_Coco_170817_LIBRARY_PSB.wav,80
+Dapp (No Vox),/home/pedro/dev/antfood/percussive-gen/data/audio/17151222_Magnolia_Intro_Dapp_NoVox_170828_LIBRARY_DH.wav,17151222_Magnolia_Intro_Dapp_NoVox_170828_LIBRARY_DH.wav,85
+Dapp (Vox),/home/pedro/dev/antfood/percussive-gen/data/audio/17151223_Magnolia_Intro_Dapp_Vox_170828.1_LIBRARY_DH.aif,17151223_Magnolia_Intro_Dapp_Vox_170828.1_LIBRARY_DH.aif,85
+Glitter (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151224_Magnolia_Intro_Glitter_NoVox_170828_LIBRARY_170828_SC.wav,17151224_Magnolia_Intro_Glitter_NoVox_170828_LIBRARY_170828_SC.wav,69
+Hop Skip (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151225_Magnolia_Intro_HopSkip_170822_LIBRARY_DH.wav,17151225_Magnolia_Intro_HopSkip_170822_LIBRARY_DH.wav,15
+Hop On Top (No Vox),/home/pedro/dev/antfood/percussive-gen/data/audio/17151226_Magnolia_Intro_HopUpTop_170828_qtNoVox.wav,17151226_Magnolia_Intro_HopUpTop_170828_qtNoVox.wav,66
+Hurl (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151228_Magnolia_Intro_Hurl_170822_Library_SC.wav,17151228_Magnolia_Intro_Hurl_170822_Library_SC.wav,54
+Lamduh (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151229_Magnolia_Intro_Lamduh_170828_LIBRARY_YE.wav,17151229_Magnolia_Intro_Lamduh_170828_LIBRARY_YE.wav,39
+Lorimer (Clean),/home/pedro/dev/antfood/percussive-gen/data/audio/17151230_Magnolia_Intro_Lorimer_170818_LIBRARY_YE.wav,17151230_Magnolia_Intro_Lorimer_170818_LIBRARY_YE.wav,77
+Lorimer (Dirty),/home/pedro/dev/antfood/percussive-gen/data/audio/17151231_Magnolia_Intro_Lorimer_170824_LIBRARY_YE.wav,17151231_Magnolia_Intro_Lorimer_170824_LIBRARY_YE.wav,77
+Sisyphus (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151232_Magnolia_Intro_Sisyphus_170828_PSB.wav,17151232_Magnolia_Intro_Sisyphus_170828_PSB.wav,48
+Intro (Together Now),/home/pedro/dev/antfood/percussive-gen/data/audio/17151233_Magnolia_Intro_TogetherNow_170817_LIBRARY_SC.wav,17151233_Magnolia_Intro_TogetherNow_170817_LIBRARY_SC.wav,78
+Penarol (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151234_Magnolia_Karaoke_Penarol_170811_LIBRARY_PSB.wav,17151234_Magnolia_Karaoke_Penarol_170811_LIBRARY_PSB.wav,76
+Show You My Shoyu (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151235_Magnolia_Karaoke_ShowYouMyShoyu_170831_LIBRARY_YE.wav,17151235_Magnolia_Karaoke_ShowYouMyShoyu_170831_LIBRARY_YE.wav,85
+Hansel (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151238_Magnolia_MV2_Hansel_170918_LIBRARY_YE.wav,17151238_Magnolia_MV2_Hansel_170918_LIBRARY_YE.wav,65
+Boost (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151239_Magnolia_Sneakers_Boost_MUS_171006_LIBRARY_DH.wav,17151239_Magnolia_Sneakers_Boost_MUS_171006_LIBRARY_DH.wav,22
+Dauphin (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151240_Magnolia_Sneakers_Dauphin_170810.3_np.aif,17151240_Magnolia_Sneakers_Dauphin_170810.3_np.aif,29
+Flatbed (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151241_Magnolia_Sneakers_Flatbed_170810_LIBRARY_DH.wav,17151241_Magnolia_Sneakers_Flatbed_170810_LIBRARY_DH.wav,61
+Gretel (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151243_Magnolia_Sneakers_Gretel_LIBRARY_170918_YE.wav,17151243_Magnolia_Sneakers_Gretel_LIBRARY_170918_YE.wav,73
+Uptown Grail (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151244_Magnolia_Sneakers_UptownGrail_170810_LIB.wav,17151244_Magnolia_Sneakers_UptownGrail_170810_LIB.wav,78
+Uptown Grail (Piano),/home/pedro/dev/antfood/percussive-gen/data/audio/17151245_Magnolia_Sneakers_UptownGrail_170814_LIB2.wav,17151245_Magnolia_Sneakers_UptownGrail_170814_LIB2.wav,78
+Ads (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151247_Mailchimp_FacebookAds_MUS_170125_qt.wav,17151247_Mailchimp_FacebookAds_MUS_170125_qt.wav,42
+Applica (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151248_MailChimp_FilmParty_Applica_170914_PSB.wav,17151248_MailChimp_FilmParty_Applica_170914_PSB.wav,32
+Cerveau (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151249_MailChimp_FilmParty_Cerveau_MUS_170914_SC.wav,17151249_MailChimp_FilmParty_Cerveau_MUS_170914_SC.wav,61
+Doo The Fiddle (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151250_MailChimp_FilmParty_DooTheFiddle_170914_2p_WB.wav,17151250_MailChimp_FilmParty_DooTheFiddle_170914_2p_WB.wav,85
+Doo The Wopz (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/MailChimp_FilmParty_DooTheWopz_Original_221128_E_87_3-4_WB_NXT.wav,MailChimp_FilmParty_DooTheWopz_Original_221128_E_87_3-4_WB_NXT.wav,85
+Encyclophilia (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151252_MailChimp_FilmParty_Encyclophilia_MUS_170914_SC.wav,17151252_MailChimp_FilmParty_Encyclophilia_MUS_170914_SC.wav,81
+Fresh Freddie (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151254_MailChimp_FilmParty_FreshFreddie_170914_2p_WB.wav,17151254_MailChimp_FilmParty_FreshFreddie_170914_2p_WB.wav,85
+Gallow (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151255_MailChimp_FilmParty_Gallow_170914_PSB.wav,17151255_MailChimp_FilmParty_Gallow_170914_PSB.wav,30
+Grunion (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151256_MailChimp_FilmParty_Grunion_MUS_170914_SC.wav,17151256_MailChimp_FilmParty_Grunion_MUS_170914_SC.wav,89
+Kappa (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/MailChimp_FilmParty_Kappa_Original_170914_D_110_4-4_SC.wav,MailChimp_FilmParty_Kappa_Original_170914_D_110_4-4_SC.wav,73
+Paisley Party (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/MailChimp_FilmPartyPitch_PaisleyParty_Original_170914_E_150_3-4_SC.wav,MailChimp_FilmPartyPitch_PaisleyParty_Original_170914_E_150_3-4_SC.wav,33
+Pirouette Silhouette (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151259_MailChimp_FilmParty_PirouetteSilhouette_MUS_170914_YE.wav,17151259_MailChimp_FilmParty_PirouetteSilhouette_MUS_170914_YE.wav,38
+Salsa Recipe (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151260_MailChimp_FilmParty_SalsaRecipe_MUS_170914_YE.wav,17151260_MailChimp_FilmParty_SalsaRecipe_MUS_170914_YE.wav,80
+Your Civic Duty (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151261_MailChimp_FilmParty_YourCivicDuty_MUS_170914_YE.wav,17151261_MailChimp_FilmParty_YourCivicDuty_MUS_170914_YE.wav,85
+Fail Blimp (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151262_MailChimp_KaleLimp_FailBlimp_MUS_170104_qt.wav,17151262_MailChimp_KaleLimp_FailBlimp_MUS_170104_qt.wav,15
+Floabuola (Goof Bass),/home/pedro/dev/antfood/percussive-gen/data/audio/17151263_MailChimp_KaleLimp_Floabuola_ALT_MUS_170106_qt.wav,17151263_MailChimp_KaleLimp_Floabuola_ALT_MUS_170106_qt.wav,48
+Floabuola (Synth Bass),/home/pedro/dev/antfood/percussive-gen/data/audio/17151264_MailChimp_KaleLimp_Floabuola_SynthBass_MUS_170106_qt.wav,17151264_MailChimp_KaleLimp_Floabuola_SynthBass_MUS_170106_qt.wav,48
+Garnish (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151265_MailChimp_KaleLimp_Garnish_MUS_170104_qt.wav,17151265_MailChimp_KaleLimp_Garnish_MUS_170104_qt.wav,26
+Regal Beagle (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151266_MailChimp_KaleLimp_RegalBeagle_MUS_170104_qt.wav,17151266_MailChimp_KaleLimp_RegalBeagle_MUS_170104_qt.wav,78
+Venus (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151267_MailChimp_KaleLimp_Venus_MUS_170104_qt.wav,17151267_MailChimp_KaleLimp_Venus_MUS_170104_qt.wav,61
+Steel (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151274_Massy_Uncomplicate_Steel_140606_qt.wav,17151274_Massy_Uncomplicate_Steel_140606_qt.wav,85
+Antipodes (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151275_McDs_AlwaysWorking_Antipodes_160225_qt.wav,17151275_McDs_AlwaysWorking_Antipodes_160225_qt.wav,85
+Belay (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151282_MercedesBenz_GripByBrip_Belay_150812_qt.wav,17151282_MercedesBenz_GripByBrip_Belay_150812_qt.wav,47
+Terror Dome (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151283_Mirinda_Kaiju_TerrorDome_NoVox_160216_qt.wav,17151283_Mirinda_Kaiju_TerrorDome_NoVox_160216_qt.wav,47
+Plural (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151284_Mirinda_MultiFruitTV_Plural_160208_qt.wav,17151284_Mirinda_MultiFruitTV_Plural_160208_qt.wav,62
+Wilin Out (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151285_Mirinda_Orange_TV_MOULINROUGE_WilinOut_160122_qt.wav,17151285_Mirinda_Orange_TV_MOULINROUGE_WilinOut_160122_qt.wav,60
+Summer Jam (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151286_Mirinda_Orange_TV_POOL_SummerJam_160122_qt.wav,17151286_Mirinda_Orange_TV_POOL_SummerJam_160122_qt.wav,46
+Random Lazer (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151287_Mirinda_OrangePlastic_MoulinRouge_RandomLazer_160217_4pm_qt.wav,17151287_Mirinda_OrangePlastic_MoulinRouge_RandomLazer_160217_4pm_qt.wav,61
+Dance Fireworks (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151288_Mirinda_OrangePlastic_Pool_DanceFireworks_160217_4pm_qt.wav,17151288_Mirinda_OrangePlastic_Pool_DanceFireworks_160217_4pm_qt.wav,43
+Robo Thug (Electronic Drums),/home/pedro/dev/antfood/percussive-gen/data/audio/17151302_Mirinda_TV_MultiFruit_RoboThug_160217_qt.wav,17151302_Mirinda_TV_MultiFruit_RoboThug_160217_qt.wav,38
+Robo Thug (Acoustic Drums),/home/pedro/dev/antfood/percussive-gen/data/audio/17151303_Mirinda_TV_MultiFruit_RoboThug_160219_qt.wav,17151303_Mirinda_TV_MultiFruit_RoboThug_160219_qt.wav,74
+Fancy Shoes (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151306_Mirinda_TV_Multifruit_Section2_FancyShoes_OpB_160222_qt.wav,17151306_Mirinda_TV_Multifruit_Section2_FancyShoes_OpB_160222_qt.wav,54
+Seigi (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151307_Mirinda_TV_MultiFruit_Seigi_160208_qt.wav,17151307_Mirinda_TV_MultiFruit_Seigi_160208_qt.wav,39
+Ball Pit Beatnik (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151308_Mirinda_TV_Orange_BallPitBeatnik_15_160222_qt.wav,17151308_Mirinda_TV_Orange_BallPitBeatnik_15_160222_qt.wav,45
+Midnight Swing (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151310_Mirinda_TV_Section3_MidnightSwing_160222_qt.wav,17151310_Mirinda_TV_Section3_MidnightSwing_160222_qt.wav,83
+Around The Corner (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151311_Morton_AroundTheCorner_MUS_151204_qt.wav,17151311_Morton_AroundTheCorner_MUS_151204_qt.wav,87
+Chuck (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151312_MountainDew_Refreshing_Chuck_1470901_LIBRARY_DH.wav,17151312_MountainDew_Refreshing_Chuck_1470901_LIBRARY_DH.wav,74
+Green Envy (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151313_MountainDew_Refreshing_GreenEnvy_170905_LIBRARY_PedroB.wav,17151313_MountainDew_Refreshing_GreenEnvy_170905_LIBRARY_PedroB.wav,43
+Jonah (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151314_MountainDew_Refreshing_Jonah_LIBRARY_170706_PSB.wav,17151314_MountainDew_Refreshing_Jonah_LIBRARY_170706_PSB.wav,79
+Sceptre (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151315_MountainDew_Refreshing_Sceptre_170710_LIBRARY_SC.wav,17151315_MountainDew_Refreshing_Sceptre_170710_LIBRARY_SC.wav,11
+Thirst Burst (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151316_MountainDew_Refreshing_ThirstBurst_170829_LIBRARY_YE.wav,17151316_MountainDew_Refreshing_ThirstBurst_170829_LIBRARY_YE.wav,69
+Thunder Clap (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151317_MountainDew_Refreshing_ThunderClap_170901_LIBRARY_DH.wav,17151317_MountainDew_Refreshing_ThunderClap_170901_LIBRARY_DH.wav,74
+Wild Wild (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151318_MountainDew_Refreshing_WildWild_170713_LIBRARY_YE.wav,17151318_MountainDew_Refreshing_WildWild_170713_LIBRARY_YE.wav,70
+Ablebodies (60s),/home/pedro/dev/antfood/percussive-gen/data/audio/NCTA_OnwardInternet_Ablebodies_60s_141029_D_4-4_160_WB.wav,NCTA_OnwardInternet_Ablebodies_60s_141029_D_4-4_160_WB.wav,88
+So Cool (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151320_NickJr_GAPitch_SoCool_170224_qt.wav,17151320_NickJr_GAPitch_SoCool_170224_qt.wav,89
+Hawkins (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151321_NOLS_AnnButler_Hawkins_MUS_170321_qt.wav,17151321_NOLS_AnnButler_Hawkins_MUS_170321_qt.wav,85
+Coleman (Synth),/home/pedro/dev/antfood/percussive-gen/data/audio/17151322_NOLS_BenGallegos_Coleman_170224_qt.wav,17151322_NOLS_BenGallegos_Coleman_170224_qt.wav,85
+Coleman (Acoustic),/home/pedro/dev/antfood/percussive-gen/data/audio/17151323_NOLS_BenGallegos_Part1_MUS_Coleman_Op1_170303_qt.wav,17151323_NOLS_BenGallegos_Part1_MUS_Coleman_Op1_170303_qt.wav,81
+Carmen (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151325_NOLS_BenGallegos_Part2_MUS_Carmen_170307_qt.wav,17151325_NOLS_BenGallegos_Part2_MUS_Carmen_170307_qt.wav,85
+Marmot (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151326_NOLS_ChrisWhitemore_Marmot_MUS_170317_qt.wav,17151326_NOLS_ChrisWhitemore_Marmot_MUS_170317_qt.wav,85
+Parasol (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151327_NOLS_FatoumataDoumbia_Parasol_MUS_170424_qt.wav,17151327_NOLS_FatoumataDoumbia_Parasol_MUS_170424_qt.wav,86
+Stridulate (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151328_NOLS_FatoumataDoumbia_Stridulate_MUS_170424_qt.wav,17151328_NOLS_FatoumataDoumbia_Stridulate_MUS_170424_qt.wav,86
+Nemo (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151329_NOLS_TyrheeMoore_Nemo_MUS_170320_qt.wav,17151329_NOLS_TyrheeMoore_Nemo_MUS_170320_qt.wav,82
+You're The Puppet (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151331_NoMeansYes_YoureThePuppet_161020_qt.wav,17151331_NoMeansYes_YoureThePuppet_161020_qt.wav,15
+Grab Em By The Potus (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151332_NoMeansYesPAC_GrabEmByThePotus_Op1_161021_qt.wav,17151332_NoMeansYesPAC_GrabEmByThePotus_Op1_161021_qt.wav,68
+Atolis (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151334_NYT_RealEstateApp_Atolis_150317_qt.wav,17151334_NYT_RealEstateApp_Atolis_150317_qt.wav,85
+Vestibule (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151335_NYT_RealEstateApp_Vestibule_150317_qt.wav,17151335_NYT_RealEstateApp_Vestibule_150317_qt.wav,85
+Nerves (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151343_Oooredoo_Nerves_NoLIM_151016_qt.wav,17151343_Oooredoo_Nerves_NoLIM_151016_qt.wav,82
+Alias (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151347_Ooredoo_Messi_Alias_151016_qt.wav,17151347_Ooredoo_Messi_Alias_151016_qt.wav,63
+Wick (Arabic 30s),/home/pedro/dev/antfood/percussive-gen/data/audio/17151348_Ooredoo_Messi_Arabic30_MUS_151223_qt.wav,17151348_Ooredoo_Messi_Arabic30_MUS_151223_qt.wav,61
+Wick (Arabic 60s),/home/pedro/dev/antfood/percussive-gen/data/audio/17151349_Ooredoo_Messi_Arabic60_151223_MUS_qt.wav,17151349_Ooredoo_Messi_Arabic60_151223_MUS_qt.wav,59
+Dalt n Peppa (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151350_Ooredoo_Messi_DaltnPeppa_151016_qt.wav,17151350_Ooredoo_Messi_DaltnPeppa_151016_qt.wav,85
+Messy (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151351_Ooredoo_Messi_Indonesian30_MUS_151223_qt.wav,17151351_Ooredoo_Messi_Indonesian30_MUS_151223_qt.wav,58
+Suckerpunch (Vox),/home/pedro/dev/antfood/percussive-gen/data/audio/17151353_Ooredoo_Messi_Suckerpunch_151016_op2_qt.wav,17151353_Ooredoo_Messi_Suckerpunch_151016_op2_qt.wav,45
+Suckerpunch (NoVox),/home/pedro/dev/antfood/percussive-gen/data/audio/17151354_Ooredoo_Messi_Suckerpunch_170706_NoVox_qt.wav,17151354_Ooredoo_Messi_Suckerpunch_170706_NoVox_qt.wav,45
+Untouchable (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151355_Ooredoo_Messi_Untouchable_151016_qt.wav,17151355_Ooredoo_Messi_Untouchable_151016_qt.wav,44
+Molly O'Connell (Instrumental),/home/pedro/dev/antfood/percussive-gen/data/audio/17151356_Ooredoo_MollyOConnell_Instrumental_151015_7PM_qt.wav,17151356_Ooredoo_MollyOConnell_Instrumental_151015_7PM_qt.wav,77
+Molly O'Connell (Low Rap),/home/pedro/dev/antfood/percussive-gen/data/audio/17151357_Ooredoo_MollyOConnell_LowRap_151015_7PM_qt.wav,17151357_Ooredoo_MollyOConnell_LowRap_151015_7PM_qt.wav,77
+Molly O'Connell (Rap),/home/pedro/dev/antfood/percussive-gen/data/audio/17151358_Ooredoo_MollyOConnell_WhiteRap_151015_7PM_qt.wav,17151358_Ooredoo_MollyOConnell_WhiteRap_151015_7PM_qt.wav,77
+Willow Whisper (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151364_Orbit_Bench_WillowWhisper_170517_qt.wav,17151364_Orbit_Bench_WillowWhisper_170517_qt.wav,61
+Darephin (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151366_Orbit_Lion_Darephin_MUS_170517_qt.wav,17151366_Orbit_Lion_Darephin_MUS_170517_qt.wav,56
+Entrance of the Gladiators (Carnivalia),/home/pedro/dev/antfood/percussive-gen/data/audio/17151368_Orbit_SoftChewStories_Lion_Carnivalia_MUS_170420_qt.wav,17151368_Orbit_SoftChewStories_Lion_Carnivalia_MUS_170420_qt.wav,85
+Franconia (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151376_Orbit_SoftChewStories_Vespa_Franconia_MUS_170331_qt.wav,17151376_Orbit_SoftChewStories_Vespa_Franconia_MUS_170331_qt.wav,67
+High School Sweetheart (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151378_Orbit_SoftChewStories_Vespa_HighSchoolSweetheart_MUS_170331_qt.wav,17151378_Orbit_SoftChewStories_Vespa_HighSchoolSweetheart_MUS_170331_qt.wav,78
+Moffett (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151380_Orbit_SoftChewStories_Vespa_Moffett_MUS_170331_qt.wav,17151380_Orbit_SoftChewStories_Vespa_Moffett_MUS_170331_qt.wav,81
+Bracelets (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151382_Orbit_SoftChewStroies_Bench_Bracelets_170420_qt.wav,17151382_Orbit_SoftChewStroies_Bench_Bracelets_170420_qt.wav,61
+Trocknen (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151384_Orbit_SoftChewStroies_Bench_Trocknen_170420_qt.wav,17151384_Orbit_SoftChewStroies_Bench_Trocknen_170420_qt.wav,34
+Wright (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151386_Orbit_SoftChewStroies_Bench_Wright_170420_qt.wav,17151386_Orbit_SoftChewStroies_Bench_Wright_170420_qt.wav,86
+Rays of Kurzweil (Octave Bass),/home/pedro/dev/antfood/percussive-gen/data/audio/17151387_Orbit_Vespa_RaysOfKurweil_OctBass_170404_np-01.wav,17151387_Orbit_Vespa_RaysOfKurweil_OctBass_170404_np-01.wav,84
+Rays of Kurzweil (Precision Bass),/home/pedro/dev/antfood/percussive-gen/data/audio/17151388_Orbit_Vespa_RaysOfKuiweil_PBass_170404_np.wav,17151388_Orbit_Vespa_RaysOfKuiweil_PBass_170404_np.wav,84
+Rays of Kurzweil (Phase Growl),/home/pedro/dev/antfood/percussive-gen/data/audio/17151389_Orbit_Vespa_RaysOfKuiweil_PhaseGrowl_170404_np.wav,17151389_Orbit_Vespa_RaysOfKuiweil_PhaseGrowl_170404_np.wav,84
+Disco Doctor (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151390_Oscar_WeMadeForYou_Split_Mus_DiscoDoctor_151119_qt.wav,17151390_Oscar_WeMadeForYou_Split_Mus_DiscoDoctor_151119_qt.wav,83
+Reach The Top (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151391_Oscar_WeMadeForYou_Split_Mus_ReachTheTop_151119_qt.wav,17151391_Oscar_WeMadeForYou_Split_Mus_ReachTheTop_151119_qt.wav,46
+Heroes (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151392_Oscars_Heroes_RoughSkeleton_MUS_140217_qt.wav,17151392_Oscars_Heroes_RoughSkeleton_MUS_140217_qt.wav,85
+At The Corner (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151401_Panera_Devour_AtTheCorner_150508_qt.wav,17151401_Panera_Devour_AtTheCorner_150508_qt.wav,69
+Recess (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151423_Panera_Sweetness_Recess_150508_qt.wav,17151423_Panera_Sweetness_Recess_150508_qt.wav,85
+Sur La Plage (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151424_Panera_Sweetness_SurLaPlage_150508_qt.wav,17151424_Panera_Sweetness_SurLaPlage_150508_qt.wav,77
+Hacienda (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151426_Patron_Hacienda_MUS_150420_qt.wav,17151426_Patron_Hacienda_MUS_150420_qt.wav,70
+Albatross (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/Pepsi_Albatross_Original_170727_A_4-4_117_WB.wav,Pepsi_Albatross_Original_170727_A_4-4_117_WB.wav,73
+Soliloquy (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151434_Pepsi_Delicious_Pizza_Soliloquy_MUS_170726_YE.wav,17151434_Pepsi_Delicious_Pizza_Soliloquy_MUS_170726_YE.wav,80
+Yeasty Beast (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151435_Pepsi_Delicious_YeastyBeast_171006_LIBRARY_SC.wav,17151435_Pepsi_Delicious_YeastyBeast_171006_LIBRARY_SC.wav,68
+Ripps (Minimal),/home/pedro/dev/antfood/percussive-gen/data/audio/17151440_Pepsi_ExpressionSeries_RippsMinimal_MUS_170217_WB.wav,17151440_Pepsi_ExpressionSeries_RippsMinimal_MUS_170217_WB.wav,59
+Ripps (Ripper),/home/pedro/dev/antfood/percussive-gen/data/audio/17151441_Pepsi_ExpressionSeries_RippsRipper_MUS_170217_WB.wav,17151441_Pepsi_ExpressionSeries_RippsRipper_MUS_170217_WB.wav,59
+Wall 2 Wall (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151442_Pepsi_Wall2Wall_170616_LIBRARY_SC.wav,17151442_Pepsi_Wall2Wall_170616_LIBRARY_SC.wav,15
+Training Cue (Min),/home/pedro/dev/antfood/percussive-gen/data/audio/17151447_PF_Intro_TrainingCue_Min_160404_qt.wav,17151447_PF_Intro_TrainingCue_Min_160404_qt.wav,72
+Foxy Water Cooler (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151448_PF_TCells_FoxyWaterCooler_160401_qt.wav,17151448_PF_TCells_FoxyWaterCooler_160401_qt.wav,85
+Hottt (Chill Version),/home/pedro/dev/antfood/percussive-gen/data/audio/17151449_PF_TCells_Hottt_160401_qt.wav,17151449_PF_TCells_Hottt_160401_qt.wav,54
+Hottt (HotBoi Mix),/home/pedro/dev/antfood/percussive-gen/data/audio/17151450_PF_TCells_Hottt_160404_qt.wav,17151450_PF_TCells_Hottt_160404_qt.wav,54
+E For Everyone (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151451_Playstation_KnackII_Moves_EForEveryone_LIBRARY_YE_170720.wav,17151451_Playstation_KnackII_Moves_EForEveryone_LIBRARY_YE_170720.wav,64
+Dorian (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151452_Playstation_KnackII_Speech_Dorian_MUS_170731_PSB.wav,17151452_Playstation_KnackII_Speech_Dorian_MUS_170731_PSB.wav,44
+Planetary Convergence (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151453_Playstation_KnackII_Speech_PlanetaryConvergence_170901_LIBRARY_DH.wav,17151453_Playstation_KnackII_Speech_PlanetaryConvergence_170901_LIBRARY_DH.wav,82
+Marching Out (Electric Marimba),/home/pedro/dev/antfood/percussive-gen/data/audio/17151455_Raid_Shoe_MarchingCharles_OP2_140324_qt.wav,17151455_Raid_Shoe_MarchingCharles_OP2_140324_qt.wav,85
+Halves (Sting),/home/pedro/dev/antfood/percussive-gen/data/audio/17151456_RINGTONE_ARPJUP_qt.wav,17151456_RINGTONE_ARPJUP_qt.wav,80
+Fireplace (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151467_Samsung_MUS_Fireplace_151124_qt.wav,17151467_Samsung_MUS_Fireplace_151124_qt.wav,66
+Mittens (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151468_Samsung_MUS_Mittens_151124_qt.wav,17151468_Samsung_MUS_Mittens_151124_qt.wav,79
+The Bridge (Piano),/home/pedro/dev/antfood/percussive-gen/data/audio/17151469_Samsung_MUS_TheBridge_151124_qt.wav,17151469_Samsung_MUS_TheBridge_151124_qt.wav,71
+Transmute (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151470_Samsung_MUS_Transmute_151124_qt.wav,17151470_Samsung_MUS_Transmute_151124_qt.wav,83
+Fryes (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151474_Samsung_ProjectGreat_Fryes_170814_PSB.wav,17151474_Samsung_ProjectGreat_Fryes_170814_PSB.wav,83
+Knock Turnal (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151475_Samsung_Sister_KnockTurnal_160304_qt.wav,17151475_Samsung_Sister_KnockTurnal_160304_qt.wav,28
+Acapulco (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151476_SAMSUNG_SmartSwitchOde_Acapulco_NoVox_170324_LIBRARY_WB.wav,17151476_SAMSUNG_SmartSwitchOde_Acapulco_NoVox_170324_LIBRARY_WB.wav,82
+Balance Beam (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151477_SAMSUNG_SmartSwitchOde_BalanceBeam_NoVox_170324_LIBRARY_WB.wav,17151477_SAMSUNG_SmartSwitchOde_BalanceBeam_NoVox_170324_LIBRARY_WB.wav,85
+Compound (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151478_Samsung_SmartSwitchOde_Compound_170324_LIBRARY_SC.wav,17151478_Samsung_SmartSwitchOde_Compound_170324_LIBRARY_SC.wav,85
+Fried Pickles (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151479_Samsung_SmartSwitchOde_FriedPickles_NoVox_170324_LIBRARY_DH.wav,17151479_Samsung_SmartSwitchOde_FriedPickles_NoVox_170324_LIBRARY_DH.wav,85
+Pelt (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151480_Samsung_SmartSwitchOde_Pelt_170831_LIBRARY_YE.wav,17151480_Samsung_SmartSwitchOde_Pelt_170831_LIBRARY_YE.wav,59
+Pointer (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151481_Samsung_SmartSwitchOde_Pointer_170324_LIBRARY_SC.wav,17151481_Samsung_SmartSwitchOde_Pointer_170324_LIBRARY_SC.wav,90
+Skip Jack (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151482_Samsung_SmartSwitchOde_Skipjack_170324_LIBRARY_SC.wav,17151482_Samsung_SmartSwitchOde_Skipjack_170324_LIBRARY_SC.wav,85
+Twinkle Toes (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151483_Samsung_SmartSwitchOde_TwinkleToes_170328_LIBRARY_SC.wav,17151483_Samsung_SmartSwitchOde_TwinkleToes_170328_LIBRARY_SC.wav,63
+Mr Bigglesworth (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151485_Samsung_UFC360_MrBigglesworth_170522_qt.wav,17151485_Samsung_UFC360_MrBigglesworth_170522_qt.wav,37
+Crispin (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151486_SamsungS7_Sister_Crispin_MUS_160309_qt.wav,17151486_SamsungS7_Sister_Crispin_MUS_160309_qt.wav,85
+In the Weeds (Cello),/home/pedro/dev/antfood/percussive-gen/data/audio/17151488_SamsungS7_Sister_InTheWeeds_Cello_160330_qt.wav,17151488_SamsungS7_Sister_InTheWeeds_Cello_160330_qt.wav,35
+In the Weeds (No Cello),/home/pedro/dev/antfood/percussive-gen/data/audio/17151489_SamsungS7_Sister_InTheWeeds_NoCello_160330_qt.wav,17151489_SamsungS7_Sister_InTheWeeds_NoCello_160330_qt.wav,35
+Switch (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151490_SamsungS7_Sister_Switch_160330_qt.wav,17151490_SamsungS7_Sister_Switch_160330_qt.wav,69
+Bot (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151491_SanDisk_A1mSD_1812Bot_MUS_170216_qt.wav,17151491_SanDisk_A1mSD_1812Bot_MUS_170216_qt.wav,37
+In the Hall of the Mountain King (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151495_SanDisk_GriegBot_Op1_170213_qt.wav,17151495_SanDisk_GriegBot_Op1_170213_qt.wav,18
+Mathematics (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151496_SchoolOfMotion_Mathematics_160321_qt.wav,17151496_SchoolOfMotion_Mathematics_160321_qt.wav,71
+Hinge (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151497_Seagrams_GirlsNight_Hinge_140103_qt.wav,17151497_Seagrams_GirlsNight_Hinge_140103_qt.wav,34
+Bogs (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151499_Shape_Master_MUS_140219_qt.wav,17151499_Shape_Master_MUS_140219_qt.wav,55
+Hover (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151500_SIAG_Hover_170112_qt.wav,17151500_SIAG_Hover_170112_qt.wav,43
+Hover (Ambient Space),/home/pedro/dev/antfood/percussive-gen/data/audio/17151502_SIAG_MinimalStretch_170112_qt.wav,17151502_SIAG_MinimalStretch_170112_qt.wav,15
+Slowed Binaural Beats (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151504_SIAG_SlowedBinauralBeats_170112_qt.wav,17151504_SIAG_SlowedBinauralBeats_170112_qt.wav,15
+Stillness (Clean),/home/pedro/dev/antfood/percussive-gen/data/audio/17151506_SIAG_Stillness_RoughWIP_MixBusClean_170111_qt.wav,17151506_SIAG_Stillness_RoughWIP_MixBusClean_170111_qt.wav,80
+Stillness (Vintage Vinyl),/home/pedro/dev/antfood/percussive-gen/data/audio/17151508_SIAG_Stillness_RoughWIP_MixBusVintageVinyl_170111_qt.wav,17151508_SIAG_Stillness_RoughWIP_MixBusVintageVinyl_170111_qt.wav,80
+Stillness (Ambient Trip),/home/pedro/dev/antfood/percussive-gen/data/audio/17151510_SIAG_TrippyStiller_170112_qt.wav,17151510_SIAG_TrippyStiller_170112_qt.wav,80
+Concentrate (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151512_Slack_Amazing_Concentrate_MUS_160310_qt.wav,17151512_Slack_Amazing_Concentrate_MUS_160310_qt.wav,98
+Protractor (30s),/home/pedro/dev/antfood/percussive-gen/data/audio/17151513_Slack_Amazing_Protractor_MUSOnly_160310_qt.wav,17151513_Slack_Amazing_Protractor_MUSOnly_160310_qt.wav,76
+Protractor (Brass 60),/home/pedro/dev/antfood/percussive-gen/data/audio/17151514_Slack_FlyingCar_MUS_160712_qt.wav,17151514_Slack_FlyingCar_MUS_160712_qt.wav,76
+Protractor (60s),/home/pedro/dev/antfood/percussive-gen/data/audio/17151515_Slack_FlyingCar_Protractor_60_160505_qt.wav,17151515_Slack_FlyingCar_Protractor_60_160505_qt.wav,76
+Bazooka (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151516_Snapple_TheMachine_Bazooka_MUS_160115_qt.wav,17151516_Snapple_TheMachine_Bazooka_MUS_160115_qt.wav,79
+Ducklephant (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151517_Snapple_TheMachine_Ducklephant_MUS_160115_qt.wav,17151517_Snapple_TheMachine_Ducklephant_MUS_160115_qt.wav,63
+Leapin Lizards (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151518_Snapple_TheMachine_LeapinLizards_MUS_160115_qt.wav,17151518_Snapple_TheMachine_LeapinLizards_MUS_160115_qt.wav,30
+The Machine (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151519_Snapple_TheMachine_Splits_MUS_160210_qt.wav,17151519_Snapple_TheMachine_Splits_MUS_160210_qt.wav,61
+Broad Street (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151524_Sonos_BroadStreet_WorkingSet_170801_qt.wav,17151524_Sonos_BroadStreet_WorkingSet_170801_qt.wav,53
+Le Quai (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151531_Sprint_Framily_LeQuai_140317_qt.wav,17151531_Sprint_Framily_LeQuai_140317_qt.wav,58
+Ferias (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151547_Staples_SchoolsOut_Ferias_061213_qt_COVER.wav,17151547_Staples_SchoolsOut_Ferias_061213_qt_COVER.wav,85
+Reside (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151553_Starbucks_OprahMom_Reside_140418_qt.wav,17151553_Starbucks_OprahMom_Reside_140418_qt.wav,85
+Cadden (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151554_Starbucks_OprahMoms_Cadden_140418_qt.wav,17151554_Starbucks_OprahMoms_Cadden_140418_qt.wav,87
+Embroider (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151555_Starbucks_OprahMoms_Embroider_140411_qt.wav,17151555_Starbucks_OprahMoms_Embroider_140411_qt.wav,75
+Gus (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151556_Starbucks_OprahMoms_Gus_140411_qt.wav,17151556_Starbucks_OprahMoms_Gus_140411_qt.wav,89
+Orpah (A),/home/pedro/dev/antfood/percussive-gen/data/audio/17151557_Starbucks_OprahMoms_Orpah_140418_qt.wav,17151557_Starbucks_OprahMoms_Orpah_140418_qt.wav,85
+Orpah (B),/home/pedro/dev/antfood/percussive-gen/data/audio/17151558_Starbucks_OprahMoms_Orpah_AltB_140418_qt.wav,17151558_Starbucks_OprahMoms_Orpah_AltB_140418_qt.wav,85
+Roof Clay (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151559_Starbucks_OprahMoms_RoofClay_140418_qt.wav,17151559_Starbucks_OprahMoms_RoofClay_140418_qt.wav,85
+Straccio (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151560_Starbucks_OprahMoms_Straccio_140411_qt.wav,17151560_Starbucks_OprahMoms_Straccio_140411_qt.wav,85
+Haven (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151563_SweetGreen_SweetLifeAnthem_Haven_170712_LIBRARY_LIBRARY_YE.wav,17151563_SweetGreen_SweetLifeAnthem_Haven_170712_LIBRARY_LIBRARY_YE.wav,36
+Neighbors (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151564_SweetGreen_SweetLifeAnthem_Neighbors_MUS_170712_LIBRARY__SC.wav,17151564_SweetGreen_SweetLifeAnthem_Neighbors_MUS_170712_LIBRARY__SC.wav,85
+Obscura (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151565_SweetGreen_SweetLifeAnthem_Obscura_170712_PSB.wav,17151565_SweetGreen_SweetLifeAnthem_Obscura_170712_PSB.wav,61
+Orbital (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151566_SweetGreen_SweetLifeAnthem_Orbital_171006_LIBRARY_DH.wav,17151566_SweetGreen_SweetLifeAnthem_Orbital_171006_LIBRARY_DH.wav,62
+Ondes (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151569_Syfy_CabbagePatch_Ondes_141010_qt.wav,17151569_Syfy_CabbagePatch_Ondes_141010_qt.wav,11
+Paradiso (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151570_Syfy_FuckedUpFarm_Paradiso_141010_qt.wav,17151570_Syfy_FuckedUpFarm_Paradiso_141010_qt.wav,15
+Seepage (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151573_Syfy_StillLife_Seepage_141010_qt.wav,17151573_Syfy_StillLife_Seepage_141010_qt.wav,39
+Tombas (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151574_SyFy_StillLife_Tombas_141010_qt.wav,17151574_SyFy_StillLife_Tombas_141010_qt.wav,15
+Clowning (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151588_Target_Dory_Waves_Clowning_MUS_160510_qt.wav,17151588_Target_Dory_Waves_Clowning_MUS_160510_qt.wav,98
+Shampoo (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151591_Target_Dory_Waves_Shampoo_160510_qt.wav,17151591_Target_Dory_Waves_Shampoo_160510_qt.wav,78
+Slacker Pop (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151593_Target_Dory_Waves_SlackerPop_160509_FORLIBRARY_qt.wav,17151593_Target_Dory_Waves_SlackerPop_160509_FORLIBRARY_qt.wav,79
+Butlesville (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151595_TexasFS_FussyBaby_Butlesville_MUS_150820_qt.wav,17151595_TexasFS_FussyBaby_Butlesville_MUS_150820_qt.wav,90
+Ace Of Blades (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151597_TexasFS_Potty_Spanish_AceOfBlades_MUS_150917_qt.wav,17151597_TexasFS_Potty_Spanish_AceOfBlades_MUS_150917_qt.wav,81
+Skeeter (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151610_TotalWireless_Balloons_Skeeter_150212_qt.wav,17151610_TotalWireless_Balloons_Skeeter_150212_qt.wav,73
+Chronology (Extended),/home/pedro/dev/antfood/percussive-gen/data/audio/17151613_TRT_Chronology_Extended_110513_qt.wav,17151613_TRT_Chronology_Extended_110513_qt.wav,73
+Euler (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151617_Twitter_FlightSChool_Euler_150519_qt.wav,17151617_Twitter_FlightSChool_Euler_150519_qt.wav,76
+Grapefruits In Flight (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151618_Twitter_FlightSchool_Grapefruits_MUS_150604_qt.wav,17151618_Twitter_FlightSchool_Grapefruits_MUS_150604_qt.wav,85
+Sycamore (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151623_Uber_Rider_Sycamore_MUS_170608_LIB.wav,17151623_Uber_Rider_Sycamore_MUS_170608_LIB.wav,55
+Candlelight (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151624_Ubuntu_Nozi_Candlelight_MUS_170414_qt.wav,17151624_Ubuntu_Nozi_Candlelight_MUS_170414_qt.wav,61
+Jozi (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151627_Ubuntu_Nozi_Jozi_170413_qt.wav,17151627_Ubuntu_Nozi_Jozi_170413_qt.wav,58
+Legore Lane (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151628_Ubuntu_Nozi_LegoreLane_MUS_170515_qt.wav,17151628_Ubuntu_Nozi_LegoreLane_MUS_170515_qt.wav,54
+Dart (45s),/home/pedro/dev/antfood/percussive-gen/data/audio/17151639_Verizon_Hum_Activation_45_Dart_MUS_160628_qt.wav,17151639_Verizon_Hum_Activation_45_Dart_MUS_160628_qt.wav,90
+Mint (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151641_Verizon_Hum_App_45_Mint_MUS_160628_qt.wav,17151641_Verizon_Hum_App_45_Mint_MUS_160628_qt.wav,88
+Peralto (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151642_Verizon_Hum_App_45_Peralto_MUS_160624_qt.wav,17151642_Verizon_Hum_App_45_Peralto_MUS_160624_qt.wav,85
+Haystack (45s),/home/pedro/dev/antfood/percussive-gen/data/audio/17151643_Verizon_Hum_App_45_Roadtrip_MUS_160624_qt.wav,17151643_Verizon_Hum_App_45_Roadtrip_MUS_160624_qt.wav,100
+Tusk (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151644_Verizon_Hum_App_45_Tusk_MUS_160624_qt.wav,17151644_Verizon_Hum_App_45_Tusk_MUS_160624_qt.wav,67
+Butternut (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151649_Verizon_Hum_DrivingHistory_45_Butternut_MUS_160624_qt.wav,17151649_Verizon_Hum_DrivingHistory_45_Butternut_MUS_160624_qt.wav,59
+Linka (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151658_Verizon_HumII_Activation_Linka_MUS_160616_qt.wav,17151658_Verizon_HumII_Activation_Linka_MUS_160616_qt.wav,61
+Traveling Day (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151660_Verizon_HumII_Activation_TravelingDay_MUS_160616_qt.wav,17151660_Verizon_HumII_Activation_TravelingDay_MUS_160616_qt.wav,81
+Trot Trot (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151661_Verizon_HumII_Activation_TrotTrot_MUS_160616_qt.wav,17151661_Verizon_HumII_Activation_TrotTrot_MUS_160616_qt.wav,73
+Cameron (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151663_Verizon_iPhone6_Cameron_150901_qt.wav,17151663_Verizon_iPhone6_Cameron_150901_qt.wav,72
+Meilleur (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151665_Verizon_iPhone6_Meilleur_150901_qt.wav,17151665_Verizon_iPhone6_Meilleur_150901_qt.wav,74
+Monarchs (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151666_Verizon_iPhone6_Monarchs_150901_qt.wav,17151666_Verizon_iPhone6_Monarchs_150901_qt.wav,64
+Wingdings (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151669_Verizon_iPhone6_Wingdings_150901_qt.wav,17151669_Verizon_iPhone6_Wingdings_150901_qt.wav,92
+Catalyst (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151691_Verizon_Line_Catalyst_150501_qt.wav,17151691_Verizon_Line_Catalyst_150501_qt.wav,71
+Kick It Up (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151692_Verizon_Line_KickItUp_150501_qt.wav,17151692_Verizon_Line_KickItUp_150501_qt.wav,38
+Minimo (Bells),/home/pedro/dev/antfood/percussive-gen/data/audio/17151693_Verizon_Line_MinimoMesmo_150501_qt_LIB.wav,17151693_Verizon_Line_MinimoMesmo_150501_qt_LIB.wav,65
+Minimo (Pizzicato),/home/pedro/dev/antfood/percussive-gen/data/audio/17151694_Verizon_Line_MinimoTech_150501_qt.wav,17151694_Verizon_Line_MinimoTech_150501_qt.wav,65
+Andys Archipelago (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151696_VW_SOT_AndysArchipelago_MUS_161116_qt.wav,17151696_VW_SOT_AndysArchipelago_MUS_161116_qt.wav,85
+Dilly Dally Valley (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151704_VW_SOT_Harmonica_MUS_161211_qt.wav,17151704_VW_SOT_Harmonica_MUS_161211_qt.wav,79
+Hit The Road (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151705_VW_SOT_HitTheRoad_MUS_NoVox_161116_qt.wav,17151705_VW_SOT_HitTheRoad_MUS_NoVox_161116_qt.wav,86
+Special Place (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/VW_SOT_SpecialPlace_TMWB_G_4-4_124_161122_ATedit_220311.wav,VW_SOT_SpecialPlace_TMWB_G_4-4_124_161122_ATedit_220311.wav,90
+Stockton (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151708_VW_SOT_Stockton_MUS_NoVox_161116_qt.wav,17151708_VW_SOT_Stockton_MUS_NoVox_161116_qt.wav,69
+Swampy Stompy (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151710_VW_SOT_SwampyStompy_MUS_NoVox_161116_qt.wav,17151710_VW_SOT_SwampyStompy_MUS_NoVox_161116_qt.wav,85
+Burger Bank (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151718_Wendys_50cFrosty_BurgerBank_MUS_170606_qt.wav,17151718_Wendys_50cFrosty_BurgerBank_MUS_170606_qt.wav,70
+Hello There (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151719_Wendys_50cFrosty_HelloThere_MUS_170606_qt.wav,17151719_Wendys_50cFrosty_HelloThere_MUS_170606_qt.wav,85
+Fathom (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151721_WIX_InsideTheMind_Fathom_MUS_160726_qt.wav,17151721_WIX_InsideTheMind_Fathom_MUS_160726_qt.wav,73
+Meddwl (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151722_WIX_InsideTheMind_Meddwl_MUS_160726_qt.wav,17151722_WIX_InsideTheMind_Meddwl_MUS_160726_qt.wav,85
+Pick and Choose (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151723_WIX_InsideTheMind_PickAndChoose_MUS_160726_qt.wav,17151723_WIX_InsideTheMind_PickAndChoose_MUS_160726_qt.wav,85
+West Oak Lane (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151724_WIX_InsideTheMind_WestOakLane_MUS_160726_qt.wav,17151724_WIX_InsideTheMind_WestOakLane_MUS_160726_qt.wav,100
+Exercise Central (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151725_Woolmark_ExerciseCentral_160520_qt.wav,17151725_Woolmark_ExerciseCentral_160520_qt.wav,74
+Bainbridge (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151727_WPO_Opening_Bainbridge_090913_qt.wav,17151727_WPO_Opening_Bainbridge_090913_qt.wav,61
+Ambrosia (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151728_Xenoport_Ambrosia_MUS_160428_qt.wav,17151728_Xenoport_Ambrosia_MUS_160428_qt.wav,90
+Child (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151729_Xenoport_Child_MUS_160428_qt.wav,17151729_Xenoport_Child_MUS_160428_qt.wav,82
+Prickles (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151730_Xenoport_Prickles_MUS_160428_qt.wav,17151730_Xenoport_Prickles_MUS_160428_qt.wav,58
+Starling (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151731_Xenoport_Starling_MUS_160428_qt.wav,17151731_Xenoport_Starling_MUS_160428_qt.wav,85
+Windfall (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151732_Xenoport_Windfall_MUS_160428_qt.wav,17151732_Xenoport_Windfall_MUS_160428_qt.wav,69
+Grains (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151734_ZahaHadid_Grains_150205_qt.wav,17151734_ZahaHadid_Grains_150205_qt.wav,43
+Harasho (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151735_ZahaHadid_Harasho_150203_qt.wav,17151735_ZahaHadid_Harasho_150203_qt.wav,15
+The Architect (Alt),/home/pedro/dev/antfood/percussive-gen/data/audio/17151737_ZahaHadid_Intro_MUS_150824_qt.wav,17151737_ZahaHadid_Intro_MUS_150824_qt.wav,85
+Parenchyma (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151740_ZahaHadid_Parenchyma_MUS_150731_qt.wav,17151740_ZahaHadid_Parenchyma_MUS_150731_qt.wav,66
+Piave (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151741_ZahaHadid_Piave_150203_qt.wav,17151741_ZahaHadid_Piave_150203_qt.wav,61
+The Architect (Hero Mix),/home/pedro/dev/antfood/percussive-gen/data/audio/17151742_ZahaHadid_TheArchitect_MUS_150731_qt.wav,17151742_ZahaHadid_TheArchitect_MUS_150731_qt.wav,85
+Wanderlust (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151746_ZahaHadid_Wanderlust_MUS_150731_qt.wav,17151746_ZahaHadid_Wanderlust_MUS_150731_qt.wav,55
+Portent (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/17151747_Zone126_Portent_140613_qt.wav,17151747_Zone126_Portent_140613_qt.wav,78
+Beta Paper (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/Accor_Seeker_BetaPaper_180531_LIB_BE.wav,Accor_Seeker_BetaPaper_180531_LIB_BE.wav,85
+Flotient (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/Accor_Seeker_Flotient_180713_LIB_DH_YE.wav,Accor_Seeker_Flotient_180713_LIB_DH_YE.wav,15
+Flux Temporal (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/Accor_Seeker_Flux_180531_LIB_DH.wav,Accor_Seeker_Flux_180531_LIB_DH.wav,23
+Quotient (Clean Mix),/home/pedro/dev/antfood/percussive-gen/data/audio/Accor_Seeker_Quotient_MUS_180531_LIB_YE.wav,Accor_Seeker_Quotient_MUS_180531_LIB_YE.wav,15
+Quotient (Soundscape Mix),/home/pedro/dev/antfood/percussive-gen/data/audio/Accor_Seeker_Quotient_MUS_WithStations_180531_LIB_YE.wav,Accor_Seeker_Quotient_MUS_WithStations_180531_LIB_YE.wav,15
+Savant (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/Adidas_ZNE3_Bale_Savant_180815_LIB_YE.wav,Adidas_ZNE3_Bale_Savant_180815_LIB_YE.wav,10
+Harbinger (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/Adidas_ZNE3_Beckham_Harbinger_180815_LIB_YE.wav,Adidas_ZNE3_Beckham_Harbinger_180815_LIB_YE.wav,14
+Baozi (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/Adidas_ZNE3_NZT_Baozi_180815_LIB_SC.wav,Adidas_ZNE3_NZT_Baozi_180815_LIB_SC.wav,26
+Days (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/Africa_Brahma_Giavioes_Days_PB.wav,Africa_Brahma_Giavioes_Days_PB.wav,15
+Contemplation (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP__Subway_Timeline_Contemplation_PC_160805_qt.wav,AFSP__Subway_Timeline_Contemplation_PC_160805_qt.wav,74
+Tiny Heaven (Extended),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_19-3067_LIC_COQUEIRO_Celulas_TinyHeaven_Full_PC_161129_22h_qt.wav,AFSP_19-3067_LIC_COQUEIRO_Celulas_TinyHeaven_Full_PC_161129_22h_qt.wav,44
+Carangueijo Dub (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_100Querer_CarangueijoDub_140524_qt_VN.wav,AFSP_100Querer_CarangueijoDub_140524_qt_VN.wav,85
+Downtownzao (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_100Querer_Downtownzao_WB_140513_2p-01.wav,AFSP_100Querer_Downtownzao_WB_140513_2p-01.wav,77
+Santa Tereza (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_100Querer_Interlagos_RoughMix_PB_140512_qt-01_Ret.wav,AFSP_100Querer_Interlagos_RoughMix_PB_140512_qt-01_Ret.wav,64
+Samba Hell (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_100Querer_SambaHell_LS_140520.wav,AFSP_100Querer_SambaHell_LS_140520.wav,58
+Salty Tears (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_AACD_LegsToFly_SaltyTears_AG_170504_qt.wav,AFSP_AACD_LegsToFly_SaltyTears_AG_170504_qt.wav,85
+Shady Point (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_Abbott_Heroes_Marisa_ShadyPoint_60s_151009_qt_VN.wav,AFSP_Abbott_Heroes_Marisa_ShadyPoint_60s_151009_qt_VN.wav,80
+Igor Puppet (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_Abbott_IgorPuppet_LS_150826_qt.wav,AFSP_Abbott_IgorPuppet_LS_150826_qt.wav,85
+Sweet On Ice (Instrumental),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_Acucar_Uniao_DoceELeve_SweetOnIce_NoVocals_45s_160826_qt_VN.wav,AFSP_Acucar_Uniao_DoceELeve_SweetOnIce_NoVocals_45s_160826_qt_VN.wav,85
+Sweet On Ice (Vocals),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_Acucar_Uniao_DoceELeve_SweetOnIce_Vocals_45s_160826_qt_VN.wav,AFSP_Acucar_Uniao_DoceELeve_SweetOnIce_Vocals_45s_160826_qt_VN.wav,85
+God Loves Christmas (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_AcucarUniao_Natal_GodLovesChristmas_3min_161215_qt2_VN.wav,AFSP_AcucarUniao_Natal_GodLovesChristmas_3min_161215_qt2_VN.wav,79
+Happy Oliver (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_AcucarUniao_Natal_HappyOliver_PC_161216_qt.wav,AFSP_AcucarUniao_Natal_HappyOliver_PC_161216_qt.wav,85
+Little Goose (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_AcucarUniao_Natal_TheLittleGosse_AG_qt_30136-01.wav,AFSP_AcucarUniao_Natal_TheLittleGosse_AG_qt_30136-01.wav,90
+Ogres and Hawks (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_Africa_Brahma_Gavioes_Ogres_PB.wav,AFSP_Africa_Brahma_Gavioes_Ogres_PB.wav,70
+Kyoto (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_Africa_Brahma_Giavioes_Koyto_PB.wav,AFSP_Africa_Brahma_Giavioes_Koyto_PB.wav,63
+Delilah (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_Agoda_TravelSimplified_Delilah_PC.wav,AFSP_Agoda_TravelSimplified_Delilah_PC.wav,85
+Flaneur (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_Agoda_TravelSimplified_Flaneur_PC.wav,AFSP_Agoda_TravelSimplified_Flaneur_PC.wav,85
+West Texas at Dawn (Short Version),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_AlemDaPele_Explosions_LS_PB_151216_qt.wav,AFSP_AlemDaPele_Explosions_LS_PB_151216_qt.wav,85
+Yggdrasil (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_AlemDaPele_Yggdrasil_151216_qt_AG.wav,AFSP_AlemDaPele_Yggdrasil_151216_qt_AG.wav,85
+Long Spirit (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_AltoDelCarmen_LongSpirit_160119_qt_VN.wav,AFSP_AltoDelCarmen_LongSpirit_160119_qt_VN.wav,18
+We The Condors (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_AltoDelCarmen_UsTheCondors_LS_160120_qt.wav,AFSP_AltoDelCarmen_UsTheCondors_LS_160120_qt.wav,74
+Boop Blah (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_Amstel_VoceNaoPrecisaDeMaisNada_BoopBlah_I_LS_180404_1h.wav,AFSP_Amstel_VoceNaoPrecisaDeMaisNada_BoopBlah_I_LS_180404_1h.wav,52
+Simarik (Circus),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_ANAMARIA_HeavyUser_Simarik_VN_160602_qt.wav,AFSP_ANAMARIA_HeavyUser_Simarik_VN_160602_qt.wav,69
+Batuca (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_Antarctica_Letra_Batuca_Limiter_LS_141117_qt.wav,AFSP_Antarctica_Letra_Batuca_Limiter_LS_141117_qt.wav,54
+Cantagalo (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_Antartica_Letra_Cantagalo_141125_2p-01_PB.wav,AFSP_Antartica_Letra_Cantagalo_141125_2p-01_PB.wav,61
+Doodle Bamba (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_Antartica_Letra_DoodleBamba_LS_141027_qt.wav,AFSP_Antartica_Letra_DoodleBamba_LS_141027_qt.wav,74
+Ladeira Da Montanha (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_ANTARTICA_Letra_LadeiraDaMontanha_45s_141114_qt_VN.wav,AFSP_ANTARTICA_Letra_LadeiraDaMontanha_45s_141114_qt_VN.wav,85
+Mojito (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_Antartica_Letra_Mojito_Limiter_LS_141114_qt.wav,AFSP_Antartica_Letra_Mojito_Limiter_LS_141114_qt.wav,85
+Mojito (Dub),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_ANTARTICA_Letra_MojitoDub_Limiter_LS_141117_qt-01_Ret.wav,AFSP_ANTARTICA_Letra_MojitoDub_Limiter_LS_141117_qt-01_Ret.wav,74
+Morro Velho (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_ANTARTICA_Letra_MorroVelho_141028_qt_VN.wav,AFSP_ANTARTICA_Letra_MorroVelho_141028_qt_VN.wav,74
+Subindo o Morro (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_ANTARTICA_Letra_SubindoOMorro_45s_141118_18hr_qt_VN.wav,AFSP_ANTARTICA_Letra_SubindoOMorro_45s_141118_18hr_qt_VN.wav,85
+Ze Carioca (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_ANTARTICA_Letra_ZeCarioca_TM_141027_qt.wav,AFSP_ANTARTICA_Letra_ZeCarioca_TM_141027_qt.wav,64
+Hyperbolic (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_Audi_ManifestoDesejo_Hyperbolic_LB_180920_qt.wav,AFSP_Audi_ManifestoDesejo_Hyperbolic_LB_180920_qt.wav,83
+Rewrite It (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_Audi_Monstro_FilmeVarejoSetembro_RewriteIt_LS_170911_qt.wav,AFSP_Audi_Monstro_FilmeVarejoSetembro_RewriteIt_LS_170911_qt.wav,74
+Mini Mall (Electro Remix),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_Audi_Oportunidade_MiniMall_LS_Op3_170714_qt.wav,AFSP_Audi_Oportunidade_MiniMall_LS_Op3_170714_qt.wav,22
+Lightning Night (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_AUDI_VarejoNovembro_LightningNight_171108_qt_VN.wav,AFSP_AUDI_VarejoNovembro_LightningNight_171108_qt_VN.wav,85
+Bad Bass (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_Avon_ExtremeGlobal_BadBass_LB_180626_qt.wav,AFSP_Avon_ExtremeGlobal_BadBass_LB_180626_qt.wav,44
+Hot Chance (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_AVON_ExtremeGlobal_HotChance_180626_qt_VN.wav,AFSP_AVON_ExtremeGlobal_HotChance_180626_qt_VN.wav,85
+9 Mile Club (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_AVON_ExtremeGlobal_Mus_MileHighClub_PC_180626_qt.wav,AFSP_AVON_ExtremeGlobal_Mus_MileHighClub_PC_180626_qt.wav,22
+Astroid Astrid (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_AVON_RepenseOElogio_AstroidAstrid_AG_170616_qt_Ret.wav,AFSP_AVON_RepenseOElogio_AstroidAstrid_AG_170616_qt_Ret.wav,22
+Bertha The Brave (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_Avon_RepenseOElogio_BerthaTheBrave_AG_170627_Ed36BR_qt_Ret.wav,AFSP_Avon_RepenseOElogio_BerthaTheBrave_AG_170627_Ed36BR_qt_Ret.wav,84
+Bicycle City (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_AVON_RepenseOElogio_BicycleCity_LS_170627_ed36BR_op5_qt_RET.wav,AFSP_AVON_RepenseOElogio_BicycleCity_LS_170627_ed36BR_op5_qt_RET.wav,85
+Just A Thought (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_AVON_RepenseOElogio_JustAThought_PC_170616_qt_RET.wav,AFSP_AVON_RepenseOElogio_JustAThought_PC_170616_qt_RET.wav,90
+Pretty Tales (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_AVON_RepenseOElogio_PrettyTales_170524_qt_VN.wav,AFSP_AVON_RepenseOElogio_PrettyTales_170524_qt_VN.wav,85
+Lolla (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_BancoDeAlimentos_Case_Lolla_LS_140602.1_qt.aif,AFSP_BancoDeAlimentos_Case_Lolla_LS_140602.1_qt.aif,62
+Eletro Game (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_BASS_Awards_MUS_170315_qt_VN_PB.wav,AFSP_BASS_Awards_MUS_170315_qt_VN_PB.wav,58
+Pirate Choir (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_Bic_Evolucao_CaptainBad_withpiratechoir_170224_AG.wav,AFSP_Bic_Evolucao_CaptainBad_withpiratechoir_170224_AG.wav,73
+Coywolf (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_Bic_Evolucao_Coywolf_PC_170313_qt_16h.wav,AFSP_Bic_Evolucao_Coywolf_PC_170313_qt_16h.wav,85
+Flinta (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_Bic_Evolucao_Flinta_AG_Op02_120221_qt.wav,AFSP_Bic_Evolucao_Flinta_AG_Op02_120221_qt.wav,37
+Velho Oeste (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_Bic_Evolucao_VelhoOeste_45s_170301_qt_VN.wav,AFSP_Bic_Evolucao_VelhoOeste_45s_170301_qt_VN.wav,38
+Color On Fire (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_Bic_OPoderDasCores_ColorOnFire_Full_161213_qt_VN.wav,AFSP_Bic_OPoderDasCores_ColorOnFire_Full_161213_qt_VN.wav,58
+Non Stop Sax (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_Bic_OPoderDasCores_NonStopSax_VN_161222_qt_VN.wav,AFSP_Bic_OPoderDasCores_NonStopSax_VN_161222_qt_VN.wav,85
+Elf (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_Bic_OPoderDasCores_OttoPott_Duende_161220_qt_VN.wav,AFSP_Bic_OPoderDasCores_OttoPott_Duende_161220_qt_VN.wav,85
+Think of the Night (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_Bic_OPoderDasCores_ThinkOfTheNight_170209_qt_VN.wav,AFSP_Bic_OPoderDasCores_ThinkOfTheNight_170209_qt_VN.wav,63
+Cherry Cola (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_Bic_StopMotion_CherryCola_PC_181221_qt.wav,AFSP_Bic_StopMotion_CherryCola_PC_181221_qt.wav,79
+Hangout (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_Bic_StopMotion_Hangout_LB_181221_qt.wav,AFSP_Bic_StopMotion_Hangout_LB_181221_qt.wav,85
+New Folk (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_BigMoon_60s_171026_AG_PC.wav,AFSP_BigMoon_60s_171026_AG_PC.wav,85
+Crumbling Crystals (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_Bimbo_VaiBemMulher_CrumblingCrystals_170130_qt_AG_RET.wav,AFSP_Bimbo_VaiBemMulher_CrumblingCrystals_170130_qt_AG_RET.wav,85
+Feel Good (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_Bimbo_VaiBemMulher_FeelGood_LS_170215.1_qt.aif,AFSP_Bimbo_VaiBemMulher_FeelGood_LS_170215.1_qt.aif,81
+Happy Feet (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_Bimbo_VaiBemMulher_HappyFeet_TM_170208_qt.wav,AFSP_Bimbo_VaiBemMulher_HappyFeet_TM_170208_qt.wav,85
+Feeling Good (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_Bimbo_VaiBemMulher_TudoBem_PC_170207_qt.wav,AFSP_Bimbo_VaiBemMulher_TudoBem_PC_170207_qt.wav,85
+Carlison (English),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_Bonafont_PromessasCarnaval_VrLonga_Mus_Carlison_English_141215_qt_PB.wav,AFSP_Bonafont_PromessasCarnaval_VrLonga_Mus_Carlison_English_141215_qt_PB.wav,85
+Carlison (French),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_Bonafont_PromessasCarnaval_VrLonga_Mus_Carlison_French_141215_qt_PB.wav,AFSP_Bonafont_PromessasCarnaval_VrLonga_Mus_Carlison_French_141215_qt_PB.wav,85
+Leau Benite (Long Version),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_Bonafonte_Promessas_LeauBenite_Op1_141210_qt_VN.wav,AFSP_Bonafonte_Promessas_LeauBenite_Op1_141210_qt_VN.wav,81
+Gregorian Chant (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_BOOK_Trailer_GregoComMulher-qt_0-26298-02_AG.wav,AFSP_BOOK_Trailer_GregoComMulher-qt_0-26298-02_AG.wav,34
+Marrakech (Instrumental w/ Backing Vocals),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_Boticario_Diadohomem_Marrakech_LS_PB_140714_qt.wav,AFSP_Boticario_Diadohomem_Marrakech_LS_PB_140714_qt.wav,87
+Bedford (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_BOTICARIO_Quasar_Bedford_150109_qt_VN.wav,AFSP_BOTICARIO_Quasar_Bedford_150109_qt_VN.wav,85
+Abayomi (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_Bradesco_Gabriel_Abayomi_5min_LS_160423.1_qt.aif,AFSP_Bradesco_Gabriel_Abayomi_5min_LS_160423.1_qt.aif,75
+Doom (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_BradescoNext_Teaser_Doom_LS_161108_qt.wav,AFSP_BradescoNext_Teaser_Doom_LS_161108_qt.wav,38
+Queijo Minas (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_BRAHMA_CorridaDoOuro_QueijoMinas_150513_qt_VN.wav,AFSP_BRAHMA_CorridaDoOuro_QueijoMinas_150513_qt_VN.wav,85
+Good Stuff (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_BRAHMA_EuSouFutebol_GoodStuff_Full_LS_140122_2p-01_Ret.wav,AFSP_BRAHMA_EuSouFutebol_GoodStuff_Full_LS_140122_2p-01_Ret.wav,15
+Last Resort (Original Orchestra),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_BRAHMA_EuSouOFutebol_LastResort_LS_140111_2p-01.wav,AFSP_BRAHMA_EuSouOFutebol_LastResort_LS_140111_2p-01.wav,85
+Last Resort (Build),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_BRAHMA_EuSouOFutebol_LastResort_LS_140113_20H_2p-01.wav,AFSP_BRAHMA_EuSouOFutebol_LastResort_LS_140113_20H_2p-01.wav,85
+Peace And Love (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_BRAHMA_Movimento11_PeaceAndLove_Rough_140610_qtVN.wav,AFSP_BRAHMA_Movimento11_PeaceAndLove_Rough_140610_qtVN.wav,85
+Sand Box (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_BRAHMA_Movimento11_SandBox_140609_qt_PB.wav,AFSP_BRAHMA_Movimento11_SandBox_140609_qt_PB.wav,85
+Europa (Original),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_Brahma_Mus_Europa_LS_080513.wav,AFSP_Brahma_Mus_Europa_LS_080513.wav,85
+Gato (No topline vocals 30),/home/pedro/dev/antfood/percussive-gen/data/audio/AFSP_Brahma_Quintal_Mus_Gato_LS_V12A_310513_0HS-01.wav,AFSP_Brahma_Quintal_Mus_Gato_LS_V12A_310513_0HS-01.wav,35
