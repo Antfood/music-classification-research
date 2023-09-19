@@ -5,14 +5,13 @@ from pydub import AudioSegment
 from typing import List, Dict
 import argparse
 
-MAX_LEN = 10000  # milliseconds
-
-def split_audio(filename, outdir, label, max_length) -> List[Dict[str, str]]:
+def split_audio(filename, indir, outdir, label, max_length) -> List[Dict[str, str]]:
     print("Splitting audio file: ", filename)
 
     splits = []
 
-    audio = AudioSegment.from_wav(filename)
+    in_path = os.path.join(indir, filename)
+    audio = AudioSegment.from_wav(in_path)
 
     if len(audio) <= max_length:
         output_file = os.path.join(outdir, os.path.basename(filename))
@@ -44,10 +43,14 @@ def parse_args():
     parser = argparse.ArgumentParser(
         """Description: Split audio files into smaller chunks.
                         Exports a CVs with corresponding chucks and labels.
+
+        Usage:
+            python split_audio.py <csv_in> <csv_out> <audio_in> <audio_out> <label> <length>
         """
     )
     parser.add_argument("csv_in", type=str, help="Path to the input CSV file")
     parser.add_argument("csv_out", type=str, help="Path to the output CSV file")
+    parser.add_argument("audio_in", type=str, help="Path to directory input audio file")
     parser.add_argument( "audio_out", type=str, help="Path where to output split audio file")
     parser.add_argument("label", type=str, help="label of the label column")
     parser.add_argument( "length", type=int, help="max length of the audio splits in SECONDS.")
@@ -58,22 +61,16 @@ def parse_args():
 if __name__ == "__main__":
     args = parse_args()
 
-    if not os.path.exists(args.csv_in):
-        print("CSV file does not exist")
-        sys.exit(1)
+    assert os.path.exists(args.audio_in), "Error: Input audio directory does not exist"
+    assert os.path.exists(args.csv_in), "Error: Input CSV file does not exist"
 
     df = pd.read_csv(args.csv_in)
 
     if not os.path.exists(args.audio_out):
         os.mkdir(args.audio_out)
 
-    if "audio_path" not in df.columns:
-        print("Error: Input CSV file must have a column named 'audio_path'")
-        exit(1)
-
-    if args.label not in df.columns:
-        print(f"Error: '{args.label}' column not found in input CSV file")
-        exit(1)
+    assert "audio_path" not in df.columns, "Error: Input CSV file must have a column named 'audio_path'"
+    assert "label" not in df.columns, "Error: Input CSV file must have a column named 'label'"
 
     data = []
 
@@ -81,6 +78,7 @@ if __name__ == "__main__":
         try:
             splits = split_audio(
                 row["audio_path"],
+                args.audio_in,
                 args.audio_out,
                 row[args.label],
                 args.length * 1000

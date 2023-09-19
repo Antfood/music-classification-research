@@ -17,15 +17,18 @@ class AudioDataset(Dataset):
     def __init__(
         self,
         csv_path,
-        y_col_name= "label",
+        audio_path,
+        y_col_name="label",
         x_col_name="audio_path",
         transform=None,
         audio_len_seconds=10,
         sample_rate=SAMPLE_RATE,
         device="cpu",
+        cleanup=False,
     ):
         assert os.path.isfile(csv_path), f"{csv_path} does not exist"
 
+        self.audio_path = audio_path
         self.y_col_name = y_col_name
         self.x_col_name = x_col_name
         self.labels = pd.read_csv(csv_path)
@@ -34,13 +37,15 @@ class AudioDataset(Dataset):
         self.nb_samples = audio_len_seconds * self.sample_rate
         self.device = device
 
-        self.clean_up() # drop rows that have no valid audio data
+        if cleanup:
+            self.clean_up()  # drop rows that have no valid audio data
 
     def __len__(self):
         return len(self.labels)
 
     def __getitem__(self, index):
-        audio_path = self.labels.iloc[index, self.x_col_name]
+        audio_filename = self.labels.iloc[index, self.x_col_name]
+        audio_path = os.path.join(self.audio_path, audio_filename)
 
         audio, sr = torchaudio.load(audio_path)  # type: ignore
 
